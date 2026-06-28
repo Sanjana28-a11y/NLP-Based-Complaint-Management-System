@@ -1,0 +1,1501 @@
+Complaint_Text,Category,Urgency,Date_Submitted
+I am facing an issue where Projector in Lab 3 is not turning on.,IT,Medium,2026-02-13
+I am facing an issue where Bicycles are being stolen from the parking lot.,Security,High,2026-03-18
+Water supply in mess area was disrupted.,Mess,Medium,2026-04-03
+This is Hygiene issues at the clinic close to 3rd floor.,Health,Medium,2026-03-27
+I am facing an issue where Projector in Hostel A is not turning on.,IT,Medium,2026-04-16
+Not enough basketballs available. needs fixing,Sports,Low,2026-03-21
+This is Lights are constantly flickering in Building C.,Maintenance,High,2026-01-22
+I am facing an issue where Chairs are uncomfortable in the reading room. frustrating,Library,Low,2026-02-13
+Chairs are uncomfortable in the reading room.,Library,Medium,2026-01-14
+No security guard present at the back gate. terrible,Security,High,2026-04-02
+It is Library closes too early during exam week.,Library,Medium,2026-03-24
+Menu is repetitive and lacks nutrition.,Mess,High,2026-03-15
+Need better first aid kits in the Hostel A.,Health,High,2026-02-03
+I am facing an issue where Need better first aid kits in the 3rd floor.,Health,Medium,2026-01-03
+It is Professor missed the scheduled lecture without notice.,Academic,Medium,2026-04-16
+CCTV cameras are not functional in Hostel B. bad,Security,High,2026-04-16
+Librarian was unhelpful today.,Library,Low,2026-01-11
+Food is served cold during dinner time.,Mess,High,2026-02-21
+This is Medical room is closed during night hours near Main Block. terrible,Health,High,2026-01-27
+It is Chairs are uncomfortable in the reading room.,Library,Low,2026-01-18
+CCTV cameras are not functional in Library Section.,Security,High,2026-03-12
+Outsiders entering the campus without checking. needs fixing,Security,High,2026-02-11
+Water supply in mess area was disrupted.,Mess,Medium,2026-03-29
+Campus security personnel are rude to students. bad,Security,High,2026-03-28
+Library closes too early during exam week. bad,Library,Medium,2026-01-24
+Library closes too early during exam week.,Library,Medium,2026-02-15
+I am facing an issue where Gym equipment requires maintenance.,Sports,Medium,2026-04-14
+This is Fan is making weird noises in Hostel A.,Maintenance,Low,2026-01-26
+It is No vegetarian options available in the mess today.,Mess,Low,2026-03-18
+It is Indoor stadium is kept locked on weekends. terrible,Sports,Medium,2026-03-30
+No security guard present at the back gate.,Security,Medium,2026-03-20
+Floodlights at the football ground are not working.,Sports,Low,2026-01-20
+It is Library closes too early during exam week. frustrating,Library,Medium,2026-03-24
+This is Water cooler on the Hostel A is broken.,Maintenance,Medium,2026-01-17
+I am facing an issue where Indoor stadium is kept locked on weekends. bad,Sports,Low,2026-04-05
+It is The internet in the Library Section is too slow for studying. bad,IT,Medium,2026-01-22
+Software licenses expired on lab machines in 3rd floor. needs fixing,IT,High,2026-02-09
+Librarian was unhelpful today.,Library,Medium,2026-04-11
+Floodlights at the football ground are not working. terrible,Sports,Medium,2026-02-02
+I am facing an issue where Not enough quiet study spaces.,Library,Medium,2026-03-31
+Not enough quiet study spaces. frustrating,Library,Low,2026-04-05
+Gym equipment requires maintenance.,Sports,Medium,2026-03-26
+Window pane is broken in Library Section. very annoying,Maintenance,Medium,2026-04-17
+Chairs are uncomfortable in the reading room.,Library,Medium,2026-04-19
+I am facing an issue where Campus security personnel are rude to students.,Security,High,2026-02-26
+It is Course curriculum needs updating for industry standards.,Academic,Medium,2026-01-02
+Fan is making weird noises in Library Section.,Maintenance,Low,2026-03-03
+Doctor was not available at the clinic near Room 402.,Health,High,2026-02-11
+Assignments are graded unfairly.,Academic,Medium,2026-01-25
+I am facing an issue where Exam schedule is clashing with placement drives.,Academic,High,2026-02-21
+Software licenses expired on lab machines in Library Section. bad,IT,Low,2026-03-25
+The internet in the 3rd floor is too slow for studying.,IT,Medium,2026-02-24
+Hygiene issues at the clinic close to Hostel B.,Health,Medium,2026-03-22
+This is Librarian was unhelpful today.,Library,Medium,2026-03-17
+I am facing an issue where Cutlery is frequently dirty. urgent,Mess,Medium,2026-02-21
+Not enough basketballs available.,Sports,Medium,2026-03-30
+Food is served cold during dinner time.,Mess,High,2026-03-20
+Hygiene issues at the clinic close to Main Block.,Health,High,2026-03-22
+I am facing an issue where Gym equipment requires maintenance.,Sports,Medium,2026-02-19
+It is Hostel AC is not cooling in Main Block. Please fix ASAP.,Maintenance,High,2026-02-27
+Sports ground is too muddy to play.,Sports,Medium,2026-01-11
+I am facing an issue where Doctor was not available at the clinic near 3rd floor.,Health,Medium,2026-02-12
+Need better first aid kits in the Main Block.,Health,High,2026-01-13
+It is Online journal access is revoked.,Library,Medium,2026-04-10
+Online journal access is revoked.,Library,Medium,2026-03-10
+Cutlery is frequently dirty.,Mess,Low,2026-02-22
+Bicycles are being stolen from the parking lot.,Security,High,2026-01-11
+Elevator in Main Block is stuck frequently.,Maintenance,Medium,2026-04-04
+I am facing an issue where Hostel AC is not cooling in Room 402. Please fix ASAP. frustrating,Maintenance,Medium,2026-01-11
+Cricket pitch needs to be rolled and cleaned.,Sports,Medium,2026-03-20
+I am facing an issue where No vegetarian options available in the mess today.,Mess,Medium,2026-02-28
+Cutlery is frequently dirty. needs fixing,Mess,Medium,2026-01-08
+Wi-Fi keeps disconnecting in Hostel B. terrible,IT,Low,2026-02-04
+Software licenses expired on lab machines in Main Block. terrible,IT,Low,2026-01-05
+It is Fan is making weird noises in Building C.,Maintenance,Medium,2026-03-05
+Not enough basketballs available.,Sports,Low,2026-04-01
+Parking lot lights are out. urgent,Security,High,2026-02-23
+This is Elevator in Lab 3 is stuck frequently.,Maintenance,High,2026-04-04
+I am facing an issue where Library closes too early during exam week.,Library,Medium,2026-03-10
+I am facing an issue where Water cooler on the Hostel B is broken.,Maintenance,High,2026-02-12
+This is Unable to access the student portal from Library Section.,IT,High,2026-02-04
+Fan is making weird noises in Lab 3. very annoying,Maintenance,Low,2026-03-23
+Need more books on Machine Learning in the library.,Library,Medium,2026-02-17
+No security guard present at the back gate.,Security,High,2026-01-26
+Campus security personnel are rude to students. urgent,Security,High,2026-04-15
+Assignments are graded unfairly.,Academic,High,2026-02-16
+Cricket pitch needs to be rolled and cleaned.,Sports,Low,2026-03-30
+Parking lot lights are out. frustrating,Security,High,2026-03-25
+Floodlights at the football ground are not working.,Sports,Medium,2026-03-18
+I am facing an issue where Doctor was not available at the clinic near Lab 3.,Health,High,2026-03-19
+This is Library closes too early during exam week.,Library,Low,2026-03-31
+Cricket pitch needs to be rolled and cleaned.,Sports,Medium,2026-02-14
+It is Projector in Hostel A is not turning on.,IT,High,2026-03-25
+Cricket pitch needs to be rolled and cleaned. terrible,Sports,Medium,2026-02-18
+Floodlights at the football ground are not working.,Sports,Low,2026-01-26
+Campus security personnel are rude to students.,Security,High,2026-02-01
+I am facing an issue where CCTV cameras are not functional in Library Section.,Security,High,2026-02-18
+Indoor stadium is kept locked on weekends.,Sports,Low,2026-01-09
+Wi-Fi keeps disconnecting in Building C.,IT,Medium,2026-01-08
+Professor missed the scheduled lecture without notice.,Academic,High,2026-02-03
+Elevator in Main Block is stuck frequently.,Maintenance,High,2026-03-23
+Unable to access the student portal from Building C. urgent,IT,High,2026-01-03
+Indoor stadium is kept locked on weekends.,Sports,Low,2026-02-27
+I am facing an issue where No vegetarian options available in the mess today.,Mess,Medium,2026-02-07
+Water supply in mess area was disrupted. bad,Mess,Medium,2026-03-16
+LAN cable missing in the Hostel A.,IT,High,2026-01-11
+Floodlights at the football ground are not working.,Sports,Medium,2026-02-20
+Washrooms lack basic hygiene supplies in Room 402.,Maintenance,High,2026-03-09
+This is Not enough basketballs available.,Sports,Medium,2026-04-10
+I am facing an issue where Computers in the Hostel A lab are not working. bad,IT,High,2026-01-04
+I am facing an issue where Floodlights at the football ground are not working. frustrating,Sports,Medium,2026-03-19
+This is Assignments are graded unfairly. terrible,Academic,Medium,2026-02-17
+I am facing an issue where Not enough basketballs available.,Sports,Low,2026-03-02
+Sports ground is too muddy to play.,Sports,Low,2026-01-08
+Librarian was unhelpful today.,Library,Medium,2026-01-08
+Fan is making weird noises in Building C.,Maintenance,High,2026-03-06
+Water supply in mess area was disrupted.,Mess,High,2026-01-03
+This is Computers in the Lab 3 lab are not working. frustrating,IT,High,2026-01-10
+Outsiders entering the campus without checking. bad,Security,High,2026-02-18
+It is CCTV cameras are not functional in Library Section.,Security,High,2026-03-18
+Floodlights at the football ground are not working. needs fixing,Sports,Medium,2026-03-20
+I am facing an issue where Hygiene issues at the clinic close to Building C.,Health,Medium,2026-03-09
+I am facing an issue where Doctor was not available at the clinic near Hostel B. needs fixing,Health,High,2026-04-01
+Course curriculum needs updating for industry standards.,Academic,Medium,2026-04-05
+Chairs are uncomfortable in the reading room.,Library,Low,2026-04-06
+Assignments are graded unfairly. needs fixing,Academic,Low,2026-02-16
+Need better first aid kits in the Main Block.,Health,High,2026-02-24
+Timetable is poorly managed with no breaks.,Academic,Low,2026-01-26
+I am facing an issue where Food is served cold during dinner time. very annoying,Mess,High,2026-01-25
+No basic medicines available in the dispensary. very annoying,Health,Medium,2026-01-08
+Hygiene issues at the clinic close to 3rd floor.,Health,High,2026-03-19
+Assignments are graded unfairly. frustrating,Academic,Low,2026-01-30
+Sports ground is too muddy to play. very annoying,Sports,Medium,2026-03-31
+Window pane is broken in Lab 3. urgent,Maintenance,Medium,2026-03-04
+Water cooler on the Room 402 is broken.,Maintenance,Medium,2026-02-28
+This is Fan is making weird noises in 3rd floor.,Maintenance,Low,2026-03-14
+Software licenses expired on lab machines in 3rd floor.,IT,Medium,2026-04-12
+It is Not enough basketballs available.,Sports,Medium,2026-03-12
+Bicycles are being stolen from the parking lot.,Security,High,2026-04-13
+Need more books on Machine Learning in the library. urgent,Library,Low,2026-01-24
+There is a water leak in the Library Section.,Maintenance,Medium,2026-03-21
+Fan is making weird noises in Room 402.,Maintenance,Low,2026-03-18
+I am facing an issue where Water supply in mess area was disrupted.,Mess,Low,2026-01-02
+I am facing an issue where Gym equipment requires maintenance.,Sports,Medium,2026-01-21
+I am facing an issue where No basic medicines available in the dispensary.,Health,Medium,2026-01-22
+Printers not working in the Main Block. bad,IT,High,2026-03-28
+Assignments are graded unfairly.,Academic,Medium,2026-01-12
+It is Water supply in mess area was disrupted.,Mess,Medium,2026-01-26
+There is a water leak in the Lab 3. terrible,Maintenance,Medium,2026-02-09
+Librarian was unhelpful today.,Library,Medium,2026-03-15
+Floodlights at the football ground are not working.,Sports,Medium,2026-02-27
+I am facing an issue where CCTV cameras are not functional in Room 402.,Security,High,2026-01-31
+I am facing an issue where No vegetarian options available in the mess today.,Mess,Medium,2026-03-17
+Timetable is poorly managed with no breaks. needs fixing,Academic,High,2026-02-24
+Assignments are graded unfairly.,Academic,Medium,2026-04-08
+I am facing an issue where Elevator in Building C is stuck frequently.,Maintenance,Medium,2026-01-05
+Cutlery is frequently dirty.,Mess,High,2026-03-11
+This is Hygiene issues at the clinic close to Hostel B. very annoying,Health,High,2026-02-23
+I am facing an issue where CCTV cameras are not functional in Building C.,Security,High,2026-04-12
+Online journal access is revoked.,Library,Medium,2026-01-05
+Not enough elective courses offered this semester.,Academic,Low,2026-04-10
+Bicycles are being stolen from the parking lot.,Security,High,2026-03-03
+Food is served cold during dinner time.,Mess,Medium,2026-02-10
+Library closes too early during exam week.,Library,Medium,2026-02-11
+Hygiene issues at the clinic close to Room 402. frustrating,Health,Medium,2026-04-02
+Need better first aid kits in the Lab 3. terrible,Health,High,2026-01-29
+I am facing an issue where Food is served cold during dinner time.,Mess,High,2026-03-25
+I am facing an issue where Not enough quiet study spaces.,Library,Low,2026-01-06
+I am facing an issue where Floodlights at the football ground are not working.,Sports,Medium,2026-02-10
+It is Exam schedule is clashing with placement drives. very annoying,Academic,Medium,2026-03-30
+Cutlery is frequently dirty.,Mess,Medium,2026-03-12
+Floodlights at the football ground are not working. frustrating,Sports,Low,2026-03-30
+It is Librarian was unhelpful today.,Library,Medium,2026-01-04
+Water supply in mess area was disrupted.,Mess,Medium,2026-04-05
+Library closes too early during exam week. needs fixing,Library,Medium,2026-01-15
+Doctor was not available at the clinic near Hostel A. frustrating,Health,Medium,2026-01-11
+I am facing an issue where Bicycles are being stolen from the parking lot. terrible,Security,High,2026-02-28
+Gym equipment requires maintenance. terrible,Sports,Low,2026-03-23
+I am facing an issue where Chairs are uncomfortable in the reading room. urgent,Library,Medium,2026-03-13
+Printers not working in the Room 402. terrible,IT,Low,2026-01-15
+Outsiders entering the campus without checking.,Security,Medium,2026-01-31
+Library closes too early during exam week.,Library,Low,2026-03-11
+Not enough basketballs available.,Sports,Medium,2026-03-17
+Need better first aid kits in the Building C.,Health,High,2026-02-21
+I am facing an issue where Exam schedule is clashing with placement drives.,Academic,High,2026-04-10
+Window pane is broken in Hostel B.,Maintenance,Medium,2026-01-21
+This is Not enough quiet study spaces.,Library,Low,2026-01-02
+Sports ground is too muddy to play.,Sports,Medium,2026-01-26
+Cutlery is frequently dirty.,Mess,Medium,2026-04-12
+Software licenses expired on lab machines in Library Section.,IT,High,2026-01-10
+The internet in the 3rd floor is too slow for studying.,IT,Medium,2026-02-02
+I am facing an issue where Parking lot lights are out. needs fixing,Security,High,2026-02-25
+It is Software licenses expired on lab machines in Hostel A. very annoying,IT,Low,2026-03-14
+It is Wi-Fi keeps disconnecting in Main Block.,IT,Medium,2026-03-28
+Assignments are graded unfairly.,Academic,Medium,2026-01-16
+It is Professor missed the scheduled lecture without notice.,Academic,High,2026-02-04
+Software licenses expired on lab machines in Lab 3. urgent,IT,Medium,2026-03-27
+LAN cable missing in the Hostel B.,IT,Medium,2026-01-19
+I am facing an issue where Course curriculum needs updating for industry standards. needs fixing,Academic,High,2026-03-14
+Washrooms lack basic hygiene supplies in Hostel A. urgent,Maintenance,Low,2026-01-06
+Medical room is closed during night hours near Building C. frustrating,Health,High,2026-01-30
+I am facing an issue where Menu is repetitive and lacks nutrition.,Mess,High,2026-03-07
+Hygiene issues at the clinic close to Library Section.,Health,High,2026-03-08
+This is Parking lot lights are out.,Security,High,2026-03-18
+Indoor stadium is kept locked on weekends.,Sports,Medium,2026-01-07
+Cricket pitch needs to be rolled and cleaned.,Sports,Low,2026-04-16
+The internet in the Library Section is too slow for studying. needs fixing,IT,High,2026-03-30
+I am facing an issue where Printers not working in the Lab 3. terrible,IT,Medium,2026-02-01
+Hostel AC is not cooling in Lab 3. Please fix ASAP. bad,Maintenance,Medium,2026-04-13
+Course curriculum needs updating for industry standards. urgent,Academic,Medium,2026-03-04
+Assignments are graded unfairly.,Academic,Low,2026-04-16
+This is Food is served cold during dinner time.,Mess,High,2026-01-24
+I am facing an issue where Not enough elective courses offered this semester. bad,Academic,Medium,2026-02-14
+Cutlery is frequently dirty.,Mess,Medium,2026-01-09
+Window pane is broken in Library Section.,Maintenance,Medium,2026-02-22
+I am facing an issue where Online journal access is revoked.,Library,Medium,2026-04-12
+It is Not enough basketballs available. needs fixing,Sports,Medium,2026-03-12
+Lights are constantly flickering in Building C.,Maintenance,Low,2026-04-01
+Outsiders entering the campus without checking.,Security,High,2026-03-13
+Timetable is poorly managed with no breaks. frustrating,Academic,Medium,2026-04-05
+Elevator in Room 402 is stuck frequently.,Maintenance,Medium,2026-02-16
+Menu is repetitive and lacks nutrition. frustrating,Mess,High,2026-01-20
+Professor missed the scheduled lecture without notice.,Academic,Low,2026-03-15
+Timetable is poorly managed with no breaks. bad,Academic,Medium,2026-02-18
+This is Window pane is broken in Building C. urgent,Maintenance,Medium,2026-03-14
+No security guard present at the back gate. very annoying,Security,High,2026-04-16
+Computers in the Room 402 lab are not working.,IT,High,2026-02-10
+Gym equipment requires maintenance. bad,Sports,Medium,2026-01-20
+I am facing an issue where Sports ground is too muddy to play.,Sports,Medium,2026-03-20
+LAN cable missing in the 3rd floor.,IT,High,2026-03-20
+Indoor stadium is kept locked on weekends.,Sports,Medium,2026-03-16
+I am facing an issue where Wi-Fi keeps disconnecting in Hostel B.,IT,Medium,2026-01-10
+I am facing an issue where Cutlery is frequently dirty. very annoying,Mess,Medium,2026-02-20
+This is There is a water leak in the Room 402.,Maintenance,Medium,2026-04-09
+Sports ground is too muddy to play.,Sports,Medium,2026-03-19
+I am facing an issue where Assignments are graded unfairly.,Academic,Medium,2026-02-13
+I am facing an issue where Food is served cold during dinner time. needs fixing,Mess,Medium,2026-03-03
+Professor missed the scheduled lecture without notice. terrible,Academic,High,2026-03-08
+Need more books on Machine Learning in the library.,Library,Medium,2026-03-10
+Timetable is poorly managed with no breaks.,Academic,High,2026-04-16
+Not enough quiet study spaces. bad,Library,Low,2026-03-23
+I am facing an issue where Outsiders entering the campus without checking.,Security,High,2026-03-15
+I am facing an issue where Not enough quiet study spaces. needs fixing,Library,Medium,2026-01-26
+It is Cafeteria food gave several students food poisoning.,Mess,Medium,2026-04-03
+Not enough basketballs available.,Sports,Medium,2026-02-25
+This is No security guard present at the back gate.,Security,High,2026-01-15
+It is No vegetarian options available in the mess today.,Mess,Low,2026-02-02
+Outsiders entering the campus without checking.,Security,High,2026-03-08
+This is No vegetarian options available in the mess today.,Mess,Medium,2026-02-20
+Hygiene issues at the clinic close to Building C. bad,Health,Medium,2026-04-12
+Professor missed the scheduled lecture without notice. terrible,Academic,Medium,2026-01-03
+Librarian was unhelpful today.,Library,Medium,2026-03-23
+Assignments are graded unfairly.,Academic,Low,2026-02-18
+I am facing an issue where Hygiene issues at the clinic close to Hostel A. urgent,Health,High,2026-01-30
+Cafeteria food gave several students food poisoning.,Mess,Medium,2026-01-10
+I am facing an issue where Parking lot lights are out.,Security,Medium,2026-01-12
+Online journal access is revoked. needs fixing,Library,Medium,2026-01-03
+Elevator in 3rd floor is stuck frequently.,Maintenance,High,2026-04-15
+This is Fan is making weird noises in Hostel A.,Maintenance,Medium,2026-01-12
+It is Not enough basketballs available. urgent,Sports,Low,2026-03-03
+I am facing an issue where Food is served cold during dinner time. terrible,Mess,High,2026-02-27
+It is Water cooler on the 3rd floor is broken. frustrating,Maintenance,Medium,2026-03-07
+It is Ambulance took too long to arrive at Room 402.,Health,High,2026-03-12
+LAN cable missing in the Hostel B. frustrating,IT,High,2026-04-08
+I am facing an issue where Cricket pitch needs to be rolled and cleaned.,Sports,Low,2026-02-05
+I am facing an issue where Need better first aid kits in the Main Block.,Health,High,2026-01-03
+Window pane is broken in Hostel A.,Maintenance,Medium,2026-01-30
+Water cooler on the Hostel A is broken.,Maintenance,High,2026-02-07
+This is Water supply in mess area was disrupted. needs fixing,Mess,Medium,2026-03-22
+Doctor was not available at the clinic near Building C.,Health,High,2026-04-10
+I am facing an issue where Wi-Fi keeps disconnecting in Building C.,IT,Low,2026-03-06
+Food is served cold during dinner time.,Mess,Low,2026-01-28
+I am facing an issue where Parking lot lights are out. bad,Security,High,2026-02-17
+Food is served cold during dinner time.,Mess,Low,2026-03-02
+Chairs are uncomfortable in the reading room. frustrating,Library,Low,2026-03-14
+I am facing an issue where No vegetarian options available in the mess today.,Mess,High,2026-01-22
+Fan is making weird noises in Library Section.,Maintenance,High,2026-01-07
+Hygiene issues at the clinic close to Lab 3. terrible,Health,High,2026-01-08
+This is Water supply in mess area was disrupted.,Mess,Medium,2026-03-10
+There is a water leak in the Hostel A. frustrating,Maintenance,High,2026-02-04
+It is Food is served cold during dinner time.,Mess,High,2026-01-01
+It is Cafeteria food gave several students food poisoning.,Mess,High,2026-01-08
+Cutlery is frequently dirty.,Mess,High,2026-02-22
+Librarian was unhelpful today.,Library,Medium,2026-02-27
+Bicycles are being stolen from the parking lot.,Security,Medium,2026-02-07
+Software licenses expired on lab machines in 3rd floor. very annoying,IT,High,2026-03-21
+It is Chairs are uncomfortable in the reading room. very annoying,Library,Medium,2026-01-21
+Timetable is poorly managed with no breaks.,Academic,Low,2026-03-05
+Water supply in mess area was disrupted. frustrating,Mess,Medium,2026-02-08
+I am facing an issue where Campus security personnel are rude to students.,Security,High,2026-02-09
+Timetable is poorly managed with no breaks. frustrating,Academic,Medium,2026-02-12
+Library closes too early during exam week.,Library,Low,2026-03-18
+I am facing an issue where Washrooms lack basic hygiene supplies in Room 402. terrible,Maintenance,Low,2026-03-05
+Menu is repetitive and lacks nutrition.,Mess,Medium,2026-03-05
+It is Gym equipment requires maintenance.,Sports,Medium,2026-01-22
+I am facing an issue where Food is served cold during dinner time.,Mess,High,2026-01-22
+I am facing an issue where Sports ground is too muddy to play.,Sports,Medium,2026-04-12
+LAN cable missing in the Library Section.,IT,Medium,2026-02-21
+Hygiene issues at the clinic close to Lab 3.,Health,Medium,2026-04-11
+Outsiders entering the campus without checking. urgent,Security,Medium,2026-02-20
+I am facing an issue where Food is served cold during dinner time.,Mess,Low,2026-03-29
+Need better first aid kits in the 3rd floor.,Health,High,2026-01-24
+Chairs are uncomfortable in the reading room. frustrating,Library,Low,2026-01-26
+I am facing an issue where Medical room is closed during night hours near Hostel A.,Health,Medium,2026-03-25
+It is Printers not working in the 3rd floor. frustrating,IT,Low,2026-02-22
+It is Library closes too early during exam week.,Library,Low,2026-01-10
+Not enough quiet study spaces.,Library,Low,2026-02-24
+I am facing an issue where CCTV cameras are not functional in Lab 3. needs fixing,Security,High,2026-03-22
+It is Not enough basketballs available. frustrating,Sports,Medium,2026-02-20
+I am facing an issue where Hostel AC is not cooling in Room 402. Please fix ASAP.,Maintenance,High,2026-02-05
+No vegetarian options available in the mess today.,Mess,Medium,2026-04-04
+It is Bicycles are being stolen from the parking lot.,Security,Medium,2026-01-15
+Software licenses expired on lab machines in Building C. terrible,IT,Medium,2026-02-23
+Online journal access is revoked.,Library,Low,2026-02-18
+The internet in the Lab 3 is too slow for studying. very annoying,IT,High,2026-01-10
+I am facing an issue where Not enough elective courses offered this semester.,Academic,Low,2026-02-17
+Chairs are uncomfortable in the reading room.,Library,Medium,2026-03-11
+This is Hostel AC is not cooling in 3rd floor. Please fix ASAP.,Maintenance,Medium,2026-01-16
+Exam schedule is clashing with placement drives.,Academic,High,2026-02-20
+Food is served cold during dinner time. terrible,Mess,High,2026-02-08
+Professor missed the scheduled lecture without notice. urgent,Academic,High,2026-03-26
+I am facing an issue where Hostel AC is not cooling in Library Section. Please fix ASAP. very annoying,Maintenance,High,2026-02-08
+It is Menu is repetitive and lacks nutrition.,Mess,High,2026-04-15
+Doctor was not available at the clinic near Library Section.,Health,Medium,2026-02-25
+I am facing an issue where Cutlery is frequently dirty.,Mess,Medium,2026-04-08
+Outsiders entering the campus without checking.,Security,High,2026-02-20
+Not enough elective courses offered this semester. bad,Academic,High,2026-01-29
+Sports ground is too muddy to play.,Sports,Medium,2026-02-22
+Chairs are uncomfortable in the reading room.,Library,Low,2026-01-30
+Timetable is poorly managed with no breaks. very annoying,Academic,High,2026-04-15
+Floodlights at the football ground are not working.,Sports,Medium,2026-03-30
+Not enough basketballs available.,Sports,Low,2026-03-01
+I am facing an issue where Washrooms lack basic hygiene supplies in Hostel A.,Maintenance,Low,2026-04-08
+I am facing an issue where Chairs are uncomfortable in the reading room.,Library,Low,2026-03-27
+Librarian was unhelpful today. terrible,Library,Medium,2026-01-15
+I am facing an issue where CCTV cameras are not functional in Hostel B.,Security,High,2026-01-09
+It is Gym equipment requires maintenance.,Sports,Medium,2026-02-21
+It is Bicycles are being stolen from the parking lot. bad,Security,High,2026-02-27
+I am facing an issue where LAN cable missing in the Lab 3.,IT,Medium,2026-01-08
+I am facing an issue where Cafeteria food gave several students food poisoning.,Mess,Medium,2026-03-13
+Need better first aid kits in the Lab 3.,Health,High,2026-01-29
+Not enough elective courses offered this semester.,Academic,Medium,2026-04-04
+It is Exam schedule is clashing with placement drives.,Academic,High,2026-04-12
+I am facing an issue where Not enough basketballs available.,Sports,Low,2026-04-07
+Online journal access is revoked.,Library,Low,2026-03-03
+I am facing an issue where Hostel AC is not cooling in Building C. Please fix ASAP.,Maintenance,Low,2026-01-18
+It is Window pane is broken in Hostel B.,Maintenance,Low,2026-04-12
+Projector in Library Section is not turning on.,IT,Medium,2026-01-29
+Exam schedule is clashing with placement drives.,Academic,Medium,2026-04-01
+Printers not working in the Hostel A. frustrating,IT,Medium,2026-01-27
+Library closes too early during exam week.,Library,Medium,2026-02-23
+Food is served cold during dinner time.,Mess,High,2026-02-19
+Bicycles are being stolen from the parking lot.,Security,High,2026-02-22
+CCTV cameras are not functional in Hostel A. frustrating,Security,Medium,2026-03-08
+Librarian was unhelpful today.,Library,Low,2026-03-02
+Not enough basketballs available.,Sports,Medium,2026-02-13
+Gym equipment requires maintenance. frustrating,Sports,Low,2026-04-11
+This is Library closes too early during exam week. terrible,Library,Medium,2026-01-15
+Parking lot lights are out. urgent,Security,High,2026-03-08
+I am facing an issue where No security guard present at the back gate.,Security,High,2026-01-27
+Course curriculum needs updating for industry standards. terrible,Academic,Low,2026-04-13
+It is Online journal access is revoked.,Library,Medium,2026-01-10
+Ambulance took too long to arrive at 3rd floor.,Health,Medium,2026-03-06
+I am facing an issue where Sports ground is too muddy to play.,Sports,Medium,2026-02-09
+Menu is repetitive and lacks nutrition.,Mess,High,2026-03-03
+I am facing an issue where CCTV cameras are not functional in Library Section.,Security,High,2026-02-18
+Fan is making weird noises in Lab 3.,Maintenance,Medium,2026-01-05
+This is Need better first aid kits in the Hostel A.,Health,High,2026-01-06
+I am facing an issue where Librarian was unhelpful today.,Library,Medium,2026-03-14
+Professor missed the scheduled lecture without notice.,Academic,Medium,2026-04-16
+I am facing an issue where Timetable is poorly managed with no breaks.,Academic,Medium,2026-03-18
+Floodlights at the football ground are not working.,Sports,Low,2026-04-03
+I am facing an issue where Assignments are graded unfairly.,Academic,Medium,2026-01-25
+This is Online journal access is revoked.,Library,Medium,2026-04-19
+Assignments are graded unfairly. terrible,Academic,Medium,2026-02-25
+Librarian was unhelpful today.,Library,Medium,2026-03-27
+Course curriculum needs updating for industry standards.,Academic,High,2026-04-12
+This is Doctor was not available at the clinic near Lab 3.,Health,High,2026-01-22
+I am facing an issue where Outsiders entering the campus without checking.,Security,High,2026-04-17
+It is Course curriculum needs updating for industry standards.,Academic,Medium,2026-03-04
+This is Menu is repetitive and lacks nutrition.,Mess,Low,2026-04-01
+It is Professor missed the scheduled lecture without notice.,Academic,Medium,2026-02-12
+I am facing an issue where Course curriculum needs updating for industry standards.,Academic,Medium,2026-03-29
+I am facing an issue where Food is served cold during dinner time.,Mess,Low,2026-03-17
+This is Timetable is poorly managed with no breaks.,Academic,High,2026-03-04
+Online journal access is revoked. urgent,Library,Low,2026-04-14
+I am facing an issue where Computers in the Hostel A lab are not working.,IT,Medium,2026-03-19
+I am facing an issue where Chairs are uncomfortable in the reading room. needs fixing,Library,Low,2026-04-07
+This is Doctor was not available at the clinic near Library Section.,Health,High,2026-01-24
+Parking lot lights are out.,Security,High,2026-03-24
+I am facing an issue where Not enough quiet study spaces. bad,Library,Low,2026-02-19
+CCTV cameras are not functional in 3rd floor. frustrating,Security,Medium,2026-04-13
+I am facing an issue where Hostel AC is not cooling in Hostel A. Please fix ASAP.,Maintenance,Medium,2026-03-01
+Water supply in mess area was disrupted.,Mess,Medium,2026-03-02
+Professor missed the scheduled lecture without notice. terrible,Academic,Medium,2026-04-02
+I am facing an issue where Timetable is poorly managed with no breaks. urgent,Academic,Medium,2026-03-18
+Outsiders entering the campus without checking. very annoying,Security,High,2026-03-29
+Medical room is closed during night hours near Lab 3. bad,Health,High,2026-03-04
+Not enough basketballs available.,Sports,Medium,2026-03-18
+CCTV cameras are not functional in Hostel A. needs fixing,Security,High,2026-03-01
+I am facing an issue where LAN cable missing in the Hostel A.,IT,Medium,2026-02-18
+Professor missed the scheduled lecture without notice. very annoying,Academic,Medium,2026-04-13
+I am facing an issue where Hygiene issues at the clinic close to Main Block.,Health,High,2026-03-26
+Fan is making weird noises in Main Block.,Maintenance,Medium,2026-04-09
+This is Elevator in Building C is stuck frequently.,Maintenance,High,2026-04-12
+I am facing an issue where Online journal access is revoked.,Library,Medium,2026-01-27
+This is Food is served cold during dinner time.,Mess,Medium,2026-02-19
+This is Hygiene issues at the clinic close to Hostel A. terrible,Health,Medium,2026-04-14
+Gym equipment requires maintenance.,Sports,Medium,2026-02-21
+I am facing an issue where Menu is repetitive and lacks nutrition.,Mess,Medium,2026-04-15
+Not enough elective courses offered this semester. needs fixing,Academic,Medium,2026-02-08
+The internet in the Room 402 is too slow for studying. very annoying,IT,High,2026-03-28
+Library closes too early during exam week. terrible,Library,Low,2026-01-09
+I am facing an issue where Food is served cold during dinner time.,Mess,Medium,2026-03-24
+Online journal access is revoked. very annoying,Library,Medium,2026-02-14
+Water cooler on the 3rd floor is broken.,Maintenance,Medium,2026-01-03
+Timetable is poorly managed with no breaks. frustrating,Academic,Medium,2026-03-08
+It is Hostel AC is not cooling in Library Section. Please fix ASAP.,Maintenance,Low,2026-03-29
+Food is served cold during dinner time.,Mess,Low,2026-01-29
+Elevator in Room 402 is stuck frequently. terrible,Maintenance,High,2026-03-18
+It is Ambulance took too long to arrive at Main Block.,Health,High,2026-04-02
+I am facing an issue where LAN cable missing in the Hostel A.,IT,High,2026-04-13
+Bicycles are being stolen from the parking lot. urgent,Security,High,2026-04-19
+Librarian was unhelpful today.,Library,Low,2026-03-13
+Water cooler on the Building C is broken.,Maintenance,Medium,2026-01-29
+Unable to access the student portal from Main Block.,IT,Medium,2026-02-15
+Library closes too early during exam week.,Library,Medium,2026-01-11
+Printers not working in the Main Block.,IT,Low,2026-04-06
+Not enough basketballs available.,Sports,Low,2026-01-08
+Chairs are uncomfortable in the reading room. very annoying,Library,Medium,2026-02-19
+Campus security personnel are rude to students.,Security,High,2026-03-01
+Library closes too early during exam week. very annoying,Library,Low,2026-03-27
+Projector in Hostel A is not turning on.,IT,Low,2026-01-11
+Timetable is poorly managed with no breaks.,Academic,Medium,2026-02-08
+Library closes too early during exam week.,Library,Medium,2026-02-07
+Not enough elective courses offered this semester. needs fixing,Academic,High,2026-01-04
+No basic medicines available in the dispensary.,Health,High,2026-04-19
+Wi-Fi keeps disconnecting in Room 402. needs fixing,IT,High,2026-03-01
+I am facing an issue where No vegetarian options available in the mess today. needs fixing,Mess,High,2026-03-14
+I am facing an issue where Bicycles are being stolen from the parking lot.,Security,High,2026-01-29
+Wi-Fi keeps disconnecting in Library Section.,IT,Medium,2026-03-11
+I am facing an issue where Indoor stadium is kept locked on weekends.,Sports,Low,2026-01-29
+Cutlery is frequently dirty. terrible,Mess,Medium,2026-03-01
+It is Outsiders entering the campus without checking.,Security,Medium,2026-01-16
+I am facing an issue where Parking lot lights are out. terrible,Security,High,2026-01-22
+Need better first aid kits in the Lab 3.,Health,Medium,2026-01-15
+Lights are constantly flickering in Room 402.,Maintenance,Low,2026-02-14
+Parking lot lights are out. frustrating,Security,High,2026-02-14
+Projector in Building C is not turning on. bad,IT,Medium,2026-02-14
+Online journal access is revoked. frustrating,Library,Medium,2026-02-27
+It is LAN cable missing in the Hostel A.,IT,Medium,2026-04-16
+No basic medicines available in the dispensary.,Health,High,2026-02-04
+Ambulance took too long to arrive at Library Section.,Health,Medium,2026-01-17
+It is The internet in the Library Section is too slow for studying.,IT,High,2026-04-13
+I am facing an issue where Floodlights at the football ground are not working. bad,Sports,Low,2026-03-25
+This is Need more books on Machine Learning in the library.,Library,Medium,2026-03-30
+Library closes too early during exam week.,Library,Medium,2026-04-02
+CCTV cameras are not functional in 3rd floor.,Security,High,2026-03-20
+Exam schedule is clashing with placement drives. terrible,Academic,Low,2026-03-16
+Outsiders entering the campus without checking. urgent,Security,High,2026-01-05
+Indoor stadium is kept locked on weekends. frustrating,Sports,Medium,2026-01-22
+I am facing an issue where Cafeteria food gave several students food poisoning. bad,Mess,Medium,2026-02-08
+This is Menu is repetitive and lacks nutrition. needs fixing,Mess,Medium,2026-03-10
+Need better first aid kits in the Library Section.,Health,Medium,2026-02-17
+It is Bicycles are being stolen from the parking lot.,Security,High,2026-02-07
+I am facing an issue where Course curriculum needs updating for industry standards.,Academic,Medium,2026-01-26
+Cafeteria food gave several students food poisoning.,Mess,Medium,2026-03-11
+Window pane is broken in Building C.,Maintenance,High,2026-01-25
+Software licenses expired on lab machines in Room 402.,IT,High,2026-03-07
+Lights are constantly flickering in Library Section. very annoying,Maintenance,Medium,2026-02-21
+Need more books on Machine Learning in the library.,Library,Medium,2026-03-03
+This is Doctor was not available at the clinic near Hostel B.,Health,High,2026-01-18
+This is Professor missed the scheduled lecture without notice. needs fixing,Academic,High,2026-01-17
+Course curriculum needs updating for industry standards.,Academic,Medium,2026-02-09
+This is Not enough elective courses offered this semester.,Academic,High,2026-02-21
+Sports ground is too muddy to play. bad,Sports,Medium,2026-03-24
+It is Bicycles are being stolen from the parking lot.,Security,Medium,2026-02-05
+I am facing an issue where Printers not working in the Main Block.,IT,Low,2026-01-29
+Parking lot lights are out.,Security,High,2026-02-04
+I am facing an issue where Not enough elective courses offered this semester.,Academic,Medium,2026-01-15
+Window pane is broken in Hostel B. frustrating,Maintenance,High,2026-04-16
+No vegetarian options available in the mess today.,Mess,Medium,2026-01-13
+This is Library closes too early during exam week. needs fixing,Library,Low,2026-01-23
+Assignments are graded unfairly.,Academic,High,2026-01-12
+Chairs are uncomfortable in the reading room.,Library,Medium,2026-03-19
+It is Food is served cold during dinner time.,Mess,Medium,2026-04-03
+Course curriculum needs updating for industry standards. needs fixing,Academic,High,2026-03-21
+This is Need better first aid kits in the Hostel B.,Health,High,2026-03-18
+It is Outsiders entering the campus without checking.,Security,High,2026-02-04
+I am facing an issue where CCTV cameras are not functional in Main Block.,Security,High,2026-02-07
+Cafeteria food gave several students food poisoning. very annoying,Mess,Medium,2026-02-15
+Hygiene issues at the clinic close to Hostel A. terrible,Health,Medium,2026-01-14
+I am facing an issue where Hygiene issues at the clinic close to Hostel A. very annoying,Health,High,2026-02-05
+No vegetarian options available in the mess today.,Mess,High,2026-02-07
+Ambulance took too long to arrive at Lab 3. very annoying,Health,High,2026-03-23
+Course curriculum needs updating for industry standards. urgent,Academic,Medium,2026-01-29
+Washrooms lack basic hygiene supplies in Hostel A.,Maintenance,Low,2026-03-31
+Window pane is broken in Lab 3.,Maintenance,Medium,2026-03-02
+Indoor stadium is kept locked on weekends.,Sports,Low,2026-02-10
+Wi-Fi keeps disconnecting in Main Block.,IT,Medium,2026-02-04
+It is Parking lot lights are out. very annoying,Security,High,2026-03-22
+Need more books on Machine Learning in the library.,Library,Low,2026-04-13
+Window pane is broken in Building C.,Maintenance,Medium,2026-01-17
+There is a water leak in the Hostel A.,Maintenance,High,2026-03-27
+Timetable is poorly managed with no breaks.,Academic,High,2026-04-03
+Printers not working in the Main Block.,IT,Low,2026-03-30
+Projector in 3rd floor is not turning on.,IT,High,2026-01-21
+I am facing an issue where No vegetarian options available in the mess today. urgent,Mess,Medium,2026-01-16
+I am facing an issue where No security guard present at the back gate.,Security,High,2026-01-05
+Campus security personnel are rude to students. needs fixing,Security,High,2026-04-16
+Librarian was unhelpful today.,Library,Medium,2026-01-03
+Not enough quiet study spaces.,Library,Low,2026-03-12
+This is Need better first aid kits in the Room 402. frustrating,Health,High,2026-04-19
+Medical room is closed during night hours near Lab 3.,Health,High,2026-03-07
+CCTV cameras are not functional in Lab 3.,Security,High,2026-03-25
+It is Sports ground is too muddy to play. frustrating,Sports,Low,2026-01-09
+CCTV cameras are not functional in Lab 3.,Security,Medium,2026-04-04
+I am facing an issue where Not enough quiet study spaces.,Library,Medium,2026-04-17
+It is No security guard present at the back gate. urgent,Security,High,2026-04-01
+LAN cable missing in the Hostel B.,IT,High,2026-01-13
+I am facing an issue where Menu is repetitive and lacks nutrition. very annoying,Mess,Medium,2026-04-01
+Unable to access the student portal from 3rd floor.,IT,Medium,2026-02-15
+Outsiders entering the campus without checking. bad,Security,High,2026-01-24
+Wi-Fi keeps disconnecting in Hostel A.,IT,High,2026-01-17
+Cafeteria food gave several students food poisoning.,Mess,High,2026-02-11
+I am facing an issue where Bicycles are being stolen from the parking lot.,Security,High,2026-03-07
+Lights are constantly flickering in Library Section.,Maintenance,Low,2026-04-19
+I am facing an issue where Not enough elective courses offered this semester. needs fixing,Academic,High,2026-03-07
+I am facing an issue where Campus security personnel are rude to students.,Security,High,2026-03-16
+Ambulance took too long to arrive at Room 402. frustrating,Health,Medium,2026-04-03
+I am facing an issue where Indoor stadium is kept locked on weekends. terrible,Sports,Low,2026-04-12
+Food is served cold during dinner time. bad,Mess,High,2026-03-21
+CCTV cameras are not functional in Main Block.,Security,Medium,2026-04-15
+It is Not enough elective courses offered this semester.,Academic,High,2026-04-11
+I am facing an issue where Not enough elective courses offered this semester. frustrating,Academic,High,2026-03-27
+I am facing an issue where Medical room is closed during night hours near Room 402.,Health,High,2026-04-04
+I am facing an issue where Cricket pitch needs to be rolled and cleaned.,Sports,Low,2026-03-04
+This is Doctor was not available at the clinic near Room 402.,Health,High,2026-01-12
+Menu is repetitive and lacks nutrition.,Mess,Medium,2026-02-12
+Lights are constantly flickering in Main Block. bad,Maintenance,Medium,2026-02-25
+I am facing an issue where Need more books on Machine Learning in the library.,Library,Medium,2026-02-04
+No basic medicines available in the dispensary. urgent,Health,Medium,2026-01-28
+This is Computers in the Library Section lab are not working. terrible,IT,Medium,2026-02-28
+LAN cable missing in the Lab 3.,IT,High,2026-01-09
+Cricket pitch needs to be rolled and cleaned. bad,Sports,Low,2026-03-09
+Window pane is broken in Hostel A.,Maintenance,Medium,2026-03-18
+I am facing an issue where Washrooms lack basic hygiene supplies in Hostel B. very annoying,Maintenance,High,2026-02-08
+I am facing an issue where Elevator in Main Block is stuck frequently.,Maintenance,Medium,2026-01-05
+I am facing an issue where Unable to access the student portal from Main Block.,IT,Medium,2026-03-14
+It is Floodlights at the football ground are not working.,Sports,Medium,2026-03-24
+No vegetarian options available in the mess today.,Mess,High,2026-01-23
+Assignments are graded unfairly. terrible,Academic,Low,2026-02-03
+Need more books on Machine Learning in the library.,Library,Medium,2026-02-07
+I am facing an issue where Need better first aid kits in the Building C. urgent,Health,Medium,2026-02-25
+It is Professor missed the scheduled lecture without notice.,Academic,Low,2026-03-23
+Assignments are graded unfairly. needs fixing,Academic,Medium,2026-03-26
+It is Projector in Library Section is not turning on.,IT,Medium,2026-03-09
+I am facing an issue where Timetable is poorly managed with no breaks. very annoying,Academic,Medium,2026-03-08
+It is Lights are constantly flickering in Hostel B.,Maintenance,Medium,2026-03-02
+Hygiene issues at the clinic close to Room 402. very annoying,Health,High,2026-02-03
+Cricket pitch needs to be rolled and cleaned.,Sports,Medium,2026-03-06
+I am facing an issue where Washrooms lack basic hygiene supplies in Building C.,Maintenance,High,2026-02-01
+Fan is making weird noises in Lab 3.,Maintenance,Medium,2026-03-13
+I am facing an issue where Not enough elective courses offered this semester. needs fixing,Academic,Medium,2026-02-11
+Not enough elective courses offered this semester. urgent,Academic,Low,2026-03-23
+Hygiene issues at the clinic close to Hostel A.,Health,Medium,2026-03-02
+I am facing an issue where Cutlery is frequently dirty.,Mess,Low,2026-04-05
+I am facing an issue where Online journal access is revoked.,Library,Medium,2026-01-19
+CCTV cameras are not functional in Main Block.,Security,Medium,2026-03-02
+Projector in Library Section is not turning on. very annoying,IT,High,2026-02-20
+Floodlights at the football ground are not working.,Sports,Medium,2026-02-02
+Need better first aid kits in the Main Block. frustrating,Health,High,2026-01-23
+Professor missed the scheduled lecture without notice. needs fixing,Academic,Medium,2026-03-31
+Floodlights at the football ground are not working.,Sports,Low,2026-03-21
+I am facing an issue where Water supply in mess area was disrupted. frustrating,Mess,High,2026-01-24
+Need better first aid kits in the Lab 3. needs fixing,Health,High,2026-04-08
+Doctor was not available at the clinic near 3rd floor.,Health,High,2026-03-06
+Software licenses expired on lab machines in Lab 3. bad,IT,Low,2026-01-29
+I am facing an issue where Lights are constantly flickering in Main Block. urgent,Maintenance,High,2026-02-19
+I am facing an issue where Floodlights at the football ground are not working. frustrating,Sports,Medium,2026-03-07
+I am facing an issue where Washrooms lack basic hygiene supplies in 3rd floor.,Maintenance,High,2026-03-17
+This is Washrooms lack basic hygiene supplies in Hostel A.,Maintenance,Low,2026-03-13
+Ambulance took too long to arrive at Building C.,Health,Medium,2026-02-22
+Need better first aid kits in the Hostel B.,Health,High,2026-01-23
+No vegetarian options available in the mess today.,Mess,Low,2026-01-21
+This is The internet in the Lab 3 is too slow for studying. bad,IT,High,2026-02-04
+Hygiene issues at the clinic close to Hostel B.,Health,High,2026-04-14
+I am facing an issue where Food is served cold during dinner time. urgent,Mess,High,2026-02-28
+Floodlights at the football ground are not working. very annoying,Sports,Medium,2026-03-31
+This is Hostel AC is not cooling in Lab 3. Please fix ASAP.,Maintenance,Low,2026-01-04
+This is Food is served cold during dinner time.,Mess,High,2026-03-26
+I am facing an issue where Need better first aid kits in the 3rd floor.,Health,High,2026-04-18
+Outsiders entering the campus without checking. terrible,Security,High,2026-02-28
+I am facing an issue where Water cooler on the Library Section is broken. frustrating,Maintenance,Medium,2026-01-12
+I am facing an issue where Doctor was not available at the clinic near Hostel A.,Health,High,2026-03-21
+It is Menu is repetitive and lacks nutrition. urgent,Mess,High,2026-01-07
+Librarian was unhelpful today. terrible,Library,Low,2026-03-21
+Menu is repetitive and lacks nutrition.,Mess,High,2026-02-03
+Food is served cold during dinner time.,Mess,High,2026-03-07
+I am facing an issue where No basic medicines available in the dispensary.,Health,High,2026-01-24
+Professor missed the scheduled lecture without notice.,Academic,Medium,2026-04-13
+I am facing an issue where Hostel AC is not cooling in Room 402. Please fix ASAP.,Maintenance,Medium,2026-02-25
+Printers not working in the Hostel B.,IT,Medium,2026-02-05
+It is Exam schedule is clashing with placement drives. urgent,Academic,Medium,2026-02-12
+I am facing an issue where Medical room is closed during night hours near Main Block.,Health,High,2026-02-28
+There is a water leak in the Lab 3.,Maintenance,Medium,2026-03-04
+No basic medicines available in the dispensary. very annoying,Health,High,2026-03-08
+Medical room is closed during night hours near Hostel A.,Health,High,2026-01-23
+I am facing an issue where Water supply in mess area was disrupted.,Mess,Medium,2026-04-05
+No security guard present at the back gate.,Security,Medium,2026-02-08
+I am facing an issue where Cutlery is frequently dirty.,Mess,Low,2026-03-29
+Not enough quiet study spaces.,Library,Medium,2026-01-02
+Online journal access is revoked. terrible,Library,Low,2026-02-27
+This is Timetable is poorly managed with no breaks.,Academic,Medium,2026-03-23
+I am facing an issue where Cutlery is frequently dirty.,Mess,High,2026-03-15
+Not enough basketballs available. urgent,Sports,Low,2026-01-30
+I am facing an issue where Washrooms lack basic hygiene supplies in 3rd floor.,Maintenance,High,2026-02-20
+This is Need more books on Machine Learning in the library.,Library,Medium,2026-03-29
+Gym equipment requires maintenance. very annoying,Sports,Medium,2026-02-18
+I am facing an issue where No security guard present at the back gate. very annoying,Security,High,2026-04-18
+Hostel AC is not cooling in Library Section. Please fix ASAP.,Maintenance,High,2026-01-02
+Outsiders entering the campus without checking.,Security,Medium,2026-02-20
+Food is served cold during dinner time.,Mess,High,2026-01-27
+Washrooms lack basic hygiene supplies in Hostel A.,Maintenance,High,2026-03-03
+It is Window pane is broken in Building C.,Maintenance,Medium,2026-04-12
+Window pane is broken in Hostel B.,Maintenance,Medium,2026-02-18
+Campus security personnel are rude to students. bad,Security,High,2026-01-25
+I am facing an issue where Hostel AC is not cooling in Room 402. Please fix ASAP.,Maintenance,Medium,2026-02-23
+Lights are constantly flickering in Main Block.,Maintenance,Medium,2026-04-15
+I am facing an issue where No basic medicines available in the dispensary.,Health,High,2026-03-16
+I am facing an issue where Exam schedule is clashing with placement drives.,Academic,High,2026-01-05
+Outsiders entering the campus without checking. very annoying,Security,Medium,2026-01-20
+No basic medicines available in the dispensary.,Health,High,2026-01-06
+Indoor stadium is kept locked on weekends.,Sports,Low,2026-03-31
+This is Outsiders entering the campus without checking. urgent,Security,Medium,2026-03-29
+I am facing an issue where Indoor stadium is kept locked on weekends.,Sports,Low,2026-02-12
+Chairs are uncomfortable in the reading room.,Library,Medium,2026-01-28
+Librarian was unhelpful today.,Library,Low,2026-04-03
+Cricket pitch needs to be rolled and cleaned.,Sports,Low,2026-04-04
+This is Unable to access the student portal from Lab 3.,IT,High,2026-03-21
+This is Medical room is closed during night hours near Room 402. bad,Health,High,2026-02-14
+I am facing an issue where Water supply in mess area was disrupted. terrible,Mess,Medium,2026-01-17
+Cafeteria food gave several students food poisoning.,Mess,High,2026-03-07
+Need more books on Machine Learning in the library.,Library,Medium,2026-02-14
+Not enough elective courses offered this semester. terrible,Academic,Low,2026-03-01
+Printers not working in the 3rd floor.,IT,High,2026-03-03
+I am facing an issue where Floodlights at the football ground are not working.,Sports,Medium,2026-04-07
+Medical room is closed during night hours near Building C.,Health,High,2026-03-01
+The internet in the Hostel A is too slow for studying. needs fixing,IT,Medium,2026-02-11
+I am facing an issue where Not enough quiet study spaces.,Library,Low,2026-04-16
+Gym equipment requires maintenance.,Sports,Medium,2026-02-10
+LAN cable missing in the Main Block. urgent,IT,High,2026-01-23
+Unable to access the student portal from Hostel A.,IT,High,2026-01-22
+It is Parking lot lights are out.,Security,High,2026-02-02
+Need better first aid kits in the Main Block.,Health,High,2026-02-14
+Cricket pitch needs to be rolled and cleaned. bad,Sports,Low,2026-02-06
+It is Campus security personnel are rude to students.,Security,High,2026-03-30
+It is Floodlights at the football ground are not working.,Sports,Medium,2026-04-06
+This is Ambulance took too long to arrive at Hostel A. needs fixing,Health,High,2026-01-27
+It is Unable to access the student portal from Building C. urgent,IT,Medium,2026-04-01
+It is Floodlights at the football ground are not working. bad,Sports,Medium,2026-02-15
+Lights are constantly flickering in Building C.,Maintenance,Low,2026-02-16
+I am facing an issue where Software licenses expired on lab machines in Room 402.,IT,Medium,2026-02-07
+This is Indoor stadium is kept locked on weekends.,Sports,Low,2026-02-12
+It is Assignments are graded unfairly. very annoying,Academic,Medium,2026-01-27
+Not enough quiet study spaces.,Library,Low,2026-01-08
+It is Exam schedule is clashing with placement drives. urgent,Academic,High,2026-03-16
+Exam schedule is clashing with placement drives.,Academic,Low,2026-01-14
+I am facing an issue where Hygiene issues at the clinic close to Lab 3.,Health,Medium,2026-01-13
+I am facing an issue where Hostel AC is not cooling in Building C. Please fix ASAP. bad,Maintenance,Medium,2026-03-10
+Floodlights at the football ground are not working.,Sports,Low,2026-02-23
+Cutlery is frequently dirty. needs fixing,Mess,Medium,2026-03-22
+I am facing an issue where Cafeteria food gave several students food poisoning.,Mess,High,2026-02-25
+It is There is a water leak in the Hostel B. urgent,Maintenance,Medium,2026-01-04
+Elevator in Lab 3 is stuck frequently. frustrating,Maintenance,High,2026-01-27
+It is Not enough quiet study spaces. urgent,Library,Medium,2026-02-27
+This is Course curriculum needs updating for industry standards.,Academic,High,2026-03-21
+I am facing an issue where Floodlights at the football ground are not working. terrible,Sports,Low,2026-01-24
+Cricket pitch needs to be rolled and cleaned.,Sports,Medium,2026-03-25
+It is Elevator in 3rd floor is stuck frequently. very annoying,Maintenance,Low,2026-03-02
+This is Library closes too early during exam week. terrible,Library,Medium,2026-03-02
+Gym equipment requires maintenance.,Sports,Medium,2026-01-17
+It is Cricket pitch needs to be rolled and cleaned.,Sports,Low,2026-03-06
+Not enough quiet study spaces.,Library,Medium,2026-03-13
+This is Software licenses expired on lab machines in Building C.,IT,High,2026-04-08
+Menu is repetitive and lacks nutrition.,Mess,Low,2026-01-01
+I am facing an issue where Fan is making weird noises in Library Section.,Maintenance,Low,2026-03-16
+This is No vegetarian options available in the mess today. terrible,Mess,Medium,2026-03-19
+Gym equipment requires maintenance. needs fixing,Sports,Medium,2026-04-02
+I am facing an issue where Library closes too early during exam week.,Library,Low,2026-01-07
+Need better first aid kits in the Lab 3.,Health,High,2026-04-14
+I am facing an issue where Bicycles are being stolen from the parking lot.,Security,High,2026-03-24
+It is Professor missed the scheduled lecture without notice.,Academic,High,2026-01-02
+It is Not enough basketballs available.,Sports,Low,2026-03-18
+Food is served cold during dinner time. frustrating,Mess,High,2026-01-14
+Sports ground is too muddy to play.,Sports,Medium,2026-04-18
+I am facing an issue where Chairs are uncomfortable in the reading room.,Library,Medium,2026-02-09
+Outsiders entering the campus without checking.,Security,High,2026-02-05
+It is Not enough basketballs available. terrible,Sports,Low,2026-03-04
+I am facing an issue where Cafeteria food gave several students food poisoning.,Mess,Medium,2026-04-06
+Not enough basketballs available. terrible,Sports,Low,2026-02-08
+I am facing an issue where Ambulance took too long to arrive at Building C. terrible,Health,High,2026-02-19
+Window pane is broken in Library Section.,Maintenance,High,2026-02-14
+I am facing an issue where Sports ground is too muddy to play.,Sports,Low,2026-01-14
+This is Outsiders entering the campus without checking.,Security,Medium,2026-03-27
+This is Not enough quiet study spaces.,Library,Low,2026-01-08
+I am facing an issue where CCTV cameras are not functional in 3rd floor. very annoying,Security,High,2026-03-10
+Cricket pitch needs to be rolled and cleaned. frustrating,Sports,Low,2026-03-27
+This is Timetable is poorly managed with no breaks.,Academic,High,2026-02-02
+I am facing an issue where Parking lot lights are out. urgent,Security,High,2026-03-13
+Timetable is poorly managed with no breaks. urgent,Academic,Medium,2026-01-08
+Window pane is broken in Building C.,Maintenance,Medium,2026-03-17
+This is Elevator in Room 402 is stuck frequently. urgent,Maintenance,Medium,2026-02-12
+Water cooler on the Library Section is broken.,Maintenance,Medium,2026-03-11
+Not enough basketballs available.,Sports,Medium,2026-01-29
+Computers in the Building C lab are not working.,IT,High,2026-03-15
+Chairs are uncomfortable in the reading room.,Library,Low,2026-04-19
+Cutlery is frequently dirty.,Mess,Medium,2026-04-05
+Printers not working in the Lab 3.,IT,Low,2026-03-20
+Washrooms lack basic hygiene supplies in Library Section. very annoying,Maintenance,Medium,2026-02-03
+I am facing an issue where Elevator in 3rd floor is stuck frequently. needs fixing,Maintenance,High,2026-03-18
+Fan is making weird noises in Hostel A.,Maintenance,Low,2026-01-16
+Elevator in 3rd floor is stuck frequently.,Maintenance,Medium,2026-01-26
+Hygiene issues at the clinic close to Hostel A.,Health,High,2026-02-28
+It is Campus security personnel are rude to students.,Security,Medium,2026-04-12
+Projector in Library Section is not turning on.,IT,Medium,2026-01-28
+I am facing an issue where Course curriculum needs updating for industry standards. needs fixing,Academic,Medium,2026-04-07
+Chairs are uncomfortable in the reading room. needs fixing,Library,Medium,2026-03-17
+This is Window pane is broken in 3rd floor. frustrating,Maintenance,Medium,2026-02-17
+Bicycles are being stolen from the parking lot.,Security,High,2026-01-03
+Chairs are uncomfortable in the reading room.,Library,Medium,2026-02-28
+This is Washrooms lack basic hygiene supplies in Hostel A.,Maintenance,Medium,2026-02-05
+LAN cable missing in the Main Block.,IT,High,2026-04-16
+Library closes too early during exam week.,Library,Medium,2026-04-01
+I am facing an issue where Menu is repetitive and lacks nutrition. terrible,Mess,Low,2026-03-03
+CCTV cameras are not functional in Lab 3.,Security,High,2026-03-10
+Water supply in mess area was disrupted. terrible,Mess,Medium,2026-03-25
+Cafeteria food gave several students food poisoning.,Mess,High,2026-02-01
+I am facing an issue where The internet in the Hostel A is too slow for studying.,IT,Medium,2026-02-16
+It is Indoor stadium is kept locked on weekends. terrible,Sports,Medium,2026-01-03
+I am facing an issue where Gym equipment requires maintenance. bad,Sports,Medium,2026-04-14
+No security guard present at the back gate.,Security,High,2026-03-13
+I am facing an issue where Online journal access is revoked.,Library,Low,2026-03-14
+Cricket pitch needs to be rolled and cleaned.,Sports,Medium,2026-01-24
+This is Computers in the Main Block lab are not working.,IT,High,2026-02-11
+Need more books on Machine Learning in the library. frustrating,Library,Medium,2026-01-06
+It is Medical room is closed during night hours near Building C.,Health,Medium,2026-02-03
+Bicycles are being stolen from the parking lot. terrible,Security,Medium,2026-04-07
+Course curriculum needs updating for industry standards.,Academic,High,2026-01-14
+I am facing an issue where Wi-Fi keeps disconnecting in Hostel A.,IT,Medium,2026-04-08
+There is a water leak in the Lab 3. frustrating,Maintenance,Medium,2026-01-06
+Floodlights at the football ground are not working.,Sports,Medium,2026-04-15
+Washrooms lack basic hygiene supplies in Building C. urgent,Maintenance,Medium,2026-02-18
+Outsiders entering the campus without checking.,Security,High,2026-02-09
+This is Assignments are graded unfairly. bad,Academic,Medium,2026-01-03
+Need more books on Machine Learning in the library. frustrating,Library,Medium,2026-02-15
+Online journal access is revoked.,Library,Medium,2026-04-04
+I am facing an issue where Course curriculum needs updating for industry standards.,Academic,Low,2026-03-22
+Librarian was unhelpful today.,Library,Medium,2026-04-05
+This is Cutlery is frequently dirty.,Mess,High,2026-03-11
+I am facing an issue where Professor missed the scheduled lecture without notice.,Academic,Low,2026-02-14
+Library closes too early during exam week.,Library,Medium,2026-01-02
+I am facing an issue where Need more books on Machine Learning in the library.,Library,Low,2026-03-19
+It is Professor missed the scheduled lecture without notice. needs fixing,Academic,Medium,2026-01-20
+Wi-Fi keeps disconnecting in Hostel A.,IT,Low,2026-01-23
+This is Floodlights at the football ground are not working.,Sports,Medium,2026-03-31
+I am facing an issue where Bicycles are being stolen from the parking lot. very annoying,Security,High,2026-02-17
+No basic medicines available in the dispensary.,Health,Medium,2026-04-03
+CCTV cameras are not functional in 3rd floor.,Security,High,2026-03-15
+Bicycles are being stolen from the parking lot.,Security,High,2026-02-26
+It is Water supply in mess area was disrupted.,Mess,Medium,2026-03-18
+It is There is a water leak in the Library Section.,Maintenance,Low,2026-03-28
+Cafeteria food gave several students food poisoning. frustrating,Mess,Low,2026-01-15
+Professor missed the scheduled lecture without notice.,Academic,High,2026-02-28
+Course curriculum needs updating for industry standards.,Academic,High,2026-02-09
+I am facing an issue where Hygiene issues at the clinic close to Hostel A.,Health,High,2026-01-01
+It is Software licenses expired on lab machines in Hostel A.,IT,Medium,2026-04-18
+Hygiene issues at the clinic close to Lab 3.,Health,High,2026-03-14
+Water cooler on the 3rd floor is broken. needs fixing,Maintenance,Medium,2026-03-20
+Chairs are uncomfortable in the reading room.,Library,Low,2026-03-12
+I am facing an issue where The internet in the Hostel B is too slow for studying. urgent,IT,Medium,2026-04-12
+Floodlights at the football ground are not working.,Sports,Medium,2026-04-03
+I am facing an issue where Medical room is closed during night hours near Hostel A.,Health,High,2026-01-21
+Lights are constantly flickering in Lab 3.,Maintenance,High,2026-01-15
+It is Not enough quiet study spaces. very annoying,Library,Medium,2026-04-08
+It is Outsiders entering the campus without checking.,Security,High,2026-01-28
+Indoor stadium is kept locked on weekends.,Sports,Low,2026-03-24
+Need more books on Machine Learning in the library.,Library,Low,2026-02-09
+This is Not enough quiet study spaces. bad,Library,Medium,2026-01-21
+I am facing an issue where Parking lot lights are out.,Security,High,2026-03-14
+This is Cutlery is frequently dirty. frustrating,Mess,Medium,2026-04-17
+Food is served cold during dinner time.,Mess,High,2026-02-14
+Hostel AC is not cooling in Library Section. Please fix ASAP.,Maintenance,High,2026-03-12
+Elevator in Hostel B is stuck frequently. urgent,Maintenance,Medium,2026-02-06
+No security guard present at the back gate.,Security,High,2026-03-25
+I am facing an issue where Cricket pitch needs to be rolled and cleaned.,Sports,Low,2026-03-14
+This is Exam schedule is clashing with placement drives.,Academic,High,2026-02-06
+I am facing an issue where No vegetarian options available in the mess today.,Mess,High,2026-02-01
+Medical room is closed during night hours near Hostel A.,Health,High,2026-04-02
+Hygiene issues at the clinic close to Room 402. frustrating,Health,Medium,2026-04-13
+This is Not enough elective courses offered this semester.,Academic,Low,2026-03-04
+Chairs are uncomfortable in the reading room.,Library,Medium,2026-02-09
+I am facing an issue where There is a water leak in the Hostel B. urgent,Maintenance,Low,2026-01-09
+Hygiene issues at the clinic close to Library Section.,Health,High,2026-04-09
+Assignments are graded unfairly.,Academic,High,2026-02-03
+CCTV cameras are not functional in Building C.,Security,High,2026-01-10
+Cafeteria food gave several students food poisoning.,Mess,Medium,2026-02-06
+Sports ground is too muddy to play.,Sports,Medium,2026-03-06
+This is Elevator in Lab 3 is stuck frequently.,Maintenance,Low,2026-04-05
+Cafeteria food gave several students food poisoning.,Mess,Medium,2026-01-26
+Chairs are uncomfortable in the reading room. bad,Library,Medium,2026-01-12
+This is Online journal access is revoked.,Library,Low,2026-01-12
+Lights are constantly flickering in Main Block.,Maintenance,Medium,2026-01-10
+Computers in the Lab 3 lab are not working. frustrating,IT,High,2026-01-08
+Cutlery is frequently dirty. terrible,Mess,Medium,2026-01-10
+I am facing an issue where Timetable is poorly managed with no breaks. very annoying,Academic,Medium,2026-01-07
+Indoor stadium is kept locked on weekends. frustrating,Sports,Medium,2026-01-03
+This is Assignments are graded unfairly.,Academic,Medium,2026-02-01
+It is Food is served cold during dinner time. bad,Mess,Medium,2026-04-14
+I am facing an issue where Not enough basketballs available. frustrating,Sports,Low,2026-04-05
+Hostel AC is not cooling in Library Section. Please fix ASAP. needs fixing,Maintenance,High,2026-01-29
+Not enough basketballs available.,Sports,Low,2026-02-21
+Bicycles are being stolen from the parking lot. urgent,Security,High,2026-04-10
+Gym equipment requires maintenance.,Sports,Medium,2026-02-27
+Ambulance took too long to arrive at Library Section. urgent,Health,High,2026-01-30
+Not enough basketballs available. frustrating,Sports,Medium,2026-01-18
+No basic medicines available in the dispensary.,Health,High,2026-02-06
+There is a water leak in the Building C.,Maintenance,High,2026-02-25
+I am facing an issue where Food is served cold during dinner time.,Mess,Medium,2026-02-01
+Cricket pitch needs to be rolled and cleaned.,Sports,Medium,2026-02-08
+Unable to access the student portal from Lab 3.,IT,Medium,2026-03-03
+I am facing an issue where Indoor stadium is kept locked on weekends.,Sports,Medium,2026-01-29
+Campus security personnel are rude to students. frustrating,Security,High,2026-04-10
+It is Ambulance took too long to arrive at Main Block.,Health,High,2026-02-15
+Doctor was not available at the clinic near Lab 3.,Health,Medium,2026-01-26
+Librarian was unhelpful today.,Library,Medium,2026-01-01
+This is Floodlights at the football ground are not working.,Sports,Low,2026-02-09
+This is No basic medicines available in the dispensary. bad,Health,High,2026-03-28
+No security guard present at the back gate.,Security,High,2026-01-30
+This is Not enough elective courses offered this semester.,Academic,Medium,2026-03-24
+Library closes too early during exam week.,Library,Medium,2026-03-15
+It is Not enough basketballs available. urgent,Sports,Medium,2026-02-03
+Software licenses expired on lab machines in Hostel A.,IT,High,2026-02-16
+Menu is repetitive and lacks nutrition.,Mess,Medium,2026-04-06
+No vegetarian options available in the mess today. needs fixing,Mess,Medium,2026-04-10
+This is Need better first aid kits in the Library Section.,Health,Medium,2026-01-26
+Timetable is poorly managed with no breaks. very annoying,Academic,High,2026-02-06
+I am facing an issue where Medical room is closed during night hours near Building C.,Health,High,2026-03-31
+No vegetarian options available in the mess today.,Mess,High,2026-01-25
+No basic medicines available in the dispensary. needs fixing,Health,High,2026-01-25
+LAN cable missing in the Hostel B.,IT,Medium,2026-01-19
+Need more books on Machine Learning in the library.,Library,Medium,2026-01-13
+This is Chairs are uncomfortable in the reading room.,Library,Low,2026-02-10
+Cricket pitch needs to be rolled and cleaned.,Sports,Medium,2026-01-14
+It is Not enough quiet study spaces.,Library,Medium,2026-04-14
+I am facing an issue where CCTV cameras are not functional in Hostel A.,Security,Medium,2026-01-06
+Sports ground is too muddy to play. urgent,Sports,Medium,2026-01-15
+Online journal access is revoked. bad,Library,Medium,2026-04-18
+Parking lot lights are out.,Security,High,2026-03-25
+I am facing an issue where Campus security personnel are rude to students.,Security,High,2026-02-27
+Need more books on Machine Learning in the library.,Library,Medium,2026-02-12
+Washrooms lack basic hygiene supplies in Hostel B. terrible,Maintenance,High,2026-03-21
+Menu is repetitive and lacks nutrition.,Mess,Medium,2026-03-22
+It is Library closes too early during exam week.,Library,Medium,2026-01-23
+Water cooler on the Lab 3 is broken.,Maintenance,High,2026-02-07
+It is Medical room is closed during night hours near Lab 3. terrible,Health,Medium,2026-04-01
+I am facing an issue where Lights are constantly flickering in Library Section.,Maintenance,Medium,2026-01-28
+Bicycles are being stolen from the parking lot. needs fixing,Security,High,2026-01-24
+Food is served cold during dinner time.,Mess,Medium,2026-01-28
+I am facing an issue where Sports ground is too muddy to play.,Sports,Medium,2026-01-28
+It is Indoor stadium is kept locked on weekends. bad,Sports,Medium,2026-04-15
+Food is served cold during dinner time. bad,Mess,Low,2026-03-31
+I am facing an issue where Computers in the 3rd floor lab are not working.,IT,High,2026-01-22
+No vegetarian options available in the mess today.,Mess,Medium,2026-01-01
+Water cooler on the Main Block is broken.,Maintenance,High,2026-04-03
+No basic medicines available in the dispensary.,Health,High,2026-03-08
+Professor missed the scheduled lecture without notice.,Academic,High,2026-01-20
+I am facing an issue where Projector in Hostel B is not turning on.,IT,Low,2026-02-14
+It is Not enough elective courses offered this semester. needs fixing,Academic,Medium,2026-02-06
+Ambulance took too long to arrive at Lab 3. needs fixing,Health,High,2026-03-27
+Indoor stadium is kept locked on weekends.,Sports,Medium,2026-03-03
+Library closes too early during exam week.,Library,Medium,2026-01-23
+I am facing an issue where Library closes too early during exam week.,Library,Low,2026-04-13
+I am facing an issue where Water supply in mess area was disrupted. urgent,Mess,Low,2026-03-16
+It is Elevator in Main Block is stuck frequently.,Maintenance,High,2026-01-01
+Wi-Fi keeps disconnecting in Library Section.,IT,High,2026-02-23
+Indoor stadium is kept locked on weekends. bad,Sports,Medium,2026-03-17
+Printers not working in the Lab 3.,IT,High,2026-04-18
+Medical room is closed during night hours near Room 402.,Health,High,2026-04-09
+Water supply in mess area was disrupted.,Mess,Medium,2026-03-24
+Outsiders entering the campus without checking. very annoying,Security,Medium,2026-01-15
+It is Water supply in mess area was disrupted.,Mess,Medium,2026-02-03
+Window pane is broken in Room 402. frustrating,Maintenance,Medium,2026-01-26
+Ambulance took too long to arrive at Hostel B.,Health,High,2026-03-29
+Professor missed the scheduled lecture without notice.,Academic,Low,2026-03-07
+It is Hostel AC is not cooling in Room 402. Please fix ASAP.,Maintenance,Low,2026-04-12
+Indoor stadium is kept locked on weekends.,Sports,Low,2026-04-07
+I am facing an issue where Floodlights at the football ground are not working. needs fixing,Sports,Medium,2026-02-19
+No basic medicines available in the dispensary.,Health,Medium,2026-01-04
+Course curriculum needs updating for industry standards. terrible,Academic,Medium,2026-03-14
+I am facing an issue where Library closes too early during exam week. needs fixing,Library,Medium,2026-04-06
+Washrooms lack basic hygiene supplies in Hostel B.,Maintenance,Medium,2026-04-18
+I am facing an issue where Outsiders entering the campus without checking.,Security,High,2026-02-04
+Water supply in mess area was disrupted. bad,Mess,Medium,2026-02-25
+This is Cutlery is frequently dirty.,Mess,Low,2026-02-04
+LAN cable missing in the Hostel A.,IT,High,2026-01-09
+Cafeteria food gave several students food poisoning.,Mess,Medium,2026-01-27
+Washrooms lack basic hygiene supplies in Hostel B.,Maintenance,Medium,2026-01-13
+I am facing an issue where Ambulance took too long to arrive at 3rd floor.,Health,High,2026-02-27
+Hygiene issues at the clinic close to Room 402.,Health,High,2026-04-06
+I am facing an issue where Need more books on Machine Learning in the library.,Library,Low,2026-01-09
+This is Gym equipment requires maintenance. frustrating,Sports,Low,2026-01-16
+Chairs are uncomfortable in the reading room.,Library,Low,2026-04-05
+I am facing an issue where Bicycles are being stolen from the parking lot. urgent,Security,High,2026-01-18
+It is Water supply in mess area was disrupted. urgent,Mess,Low,2026-02-15
+I am facing an issue where Parking lot lights are out.,Security,High,2026-03-03
+Gym equipment requires maintenance.,Sports,Medium,2026-03-09
+This is Window pane is broken in Lab 3.,Maintenance,High,2026-01-13
+Timetable is poorly managed with no breaks. bad,Academic,Medium,2026-01-27
+This is Not enough quiet study spaces. terrible,Library,Medium,2026-03-30
+It is Wi-Fi keeps disconnecting in Hostel B.,IT,Medium,2026-01-11
+Assignments are graded unfairly.,Academic,Medium,2026-04-19
+It is Projector in Main Block is not turning on.,IT,Low,2026-02-24
+Librarian was unhelpful today. very annoying,Library,Medium,2026-01-12
+Chairs are uncomfortable in the reading room. urgent,Library,Medium,2026-02-13
+Projector in Room 402 is not turning on.,IT,Medium,2026-01-24
+I am facing an issue where Librarian was unhelpful today.,Library,Medium,2026-03-26
+I am facing an issue where CCTV cameras are not functional in Hostel B.,Security,High,2026-03-19
+Elevator in Lab 3 is stuck frequently.,Maintenance,High,2026-03-09
+Fan is making weird noises in Hostel A.,Maintenance,High,2026-02-15
+Gym equipment requires maintenance.,Sports,Medium,2026-02-08
+Window pane is broken in Main Block. frustrating,Maintenance,Low,2026-04-06
+Need more books on Machine Learning in the library. needs fixing,Library,Low,2026-01-23
+I am facing an issue where Timetable is poorly managed with no breaks.,Academic,High,2026-03-23
+Not enough elective courses offered this semester.,Academic,Low,2026-04-01
+No vegetarian options available in the mess today. very annoying,Mess,Low,2026-01-05
+I am facing an issue where Library closes too early during exam week. terrible,Library,Low,2026-02-28
+It is Water cooler on the 3rd floor is broken.,Maintenance,High,2026-02-02
+Assignments are graded unfairly.,Academic,High,2026-02-28
+I am facing an issue where Software licenses expired on lab machines in Lab 3.,IT,Medium,2026-02-26
+No vegetarian options available in the mess today.,Mess,High,2026-01-05
+This is Hygiene issues at the clinic close to Hostel A.,Health,High,2026-03-29
+Bicycles are being stolen from the parking lot.,Security,High,2026-01-14
+It is Professor missed the scheduled lecture without notice.,Academic,High,2026-03-20
+CCTV cameras are not functional in Building C. bad,Security,High,2026-04-15
+Hygiene issues at the clinic close to Hostel B. urgent,Health,High,2026-02-10
+Bicycles are being stolen from the parking lot.,Security,High,2026-04-12
+Cutlery is frequently dirty.,Mess,Medium,2026-02-16
+Not enough quiet study spaces. needs fixing,Library,Medium,2026-02-11
+Online journal access is revoked.,Library,Medium,2026-01-21
+This is Sports ground is too muddy to play.,Sports,Medium,2026-02-01
+There is a water leak in the Library Section.,Maintenance,High,2026-01-17
+I am facing an issue where Chairs are uncomfortable in the reading room.,Library,Medium,2026-02-18
+I am facing an issue where Timetable is poorly managed with no breaks. needs fixing,Academic,Medium,2026-01-21
+Outsiders entering the campus without checking.,Security,High,2026-03-13
+This is Library closes too early during exam week. terrible,Library,Medium,2026-04-10
+Not enough elective courses offered this semester. very annoying,Academic,Low,2026-01-08
+This is Professor missed the scheduled lecture without notice.,Academic,Medium,2026-02-08
+Not enough basketballs available.,Sports,Medium,2026-04-02
+It is Floodlights at the football ground are not working.,Sports,Low,2026-03-06
+Cafeteria food gave several students food poisoning.,Mess,High,2026-03-17
+I am facing an issue where There is a water leak in the Lab 3.,Maintenance,Medium,2026-03-31
+This is Need more books on Machine Learning in the library.,Library,Low,2026-01-15
+I am facing an issue where Computers in the Hostel B lab are not working.,IT,High,2026-02-21
+There is a water leak in the Main Block.,Maintenance,High,2026-03-25
+Course curriculum needs updating for industry standards. urgent,Academic,High,2026-04-11
+Food is served cold during dinner time. needs fixing,Mess,Low,2026-01-07
+I am facing an issue where Parking lot lights are out.,Security,High,2026-02-15
+The internet in the Lab 3 is too slow for studying. needs fixing,IT,High,2026-02-04
+Doctor was not available at the clinic near Hostel A.,Health,Medium,2026-03-27
+Cutlery is frequently dirty.,Mess,High,2026-03-23
+Hygiene issues at the clinic close to Lab 3. needs fixing,Health,Medium,2026-03-19
+Water supply in mess area was disrupted.,Mess,Low,2026-01-06
+Professor missed the scheduled lecture without notice. frustrating,Academic,High,2026-01-27
+I am facing an issue where Parking lot lights are out. urgent,Security,High,2026-02-24
+It is Projector in Building C is not turning on.,IT,Low,2026-01-09
+It is Cricket pitch needs to be rolled and cleaned.,Sports,Medium,2026-03-02
+Course curriculum needs updating for industry standards. bad,Academic,Medium,2026-04-10
+This is CCTV cameras are not functional in Room 402. bad,Security,Medium,2026-02-19
+I am facing an issue where Timetable is poorly managed with no breaks.,Academic,High,2026-02-15
+Window pane is broken in Library Section. needs fixing,Maintenance,High,2026-02-21
+Course curriculum needs updating for industry standards.,Academic,High,2026-01-22
+I am facing an issue where Gym equipment requires maintenance.,Sports,Medium,2026-02-28
+Exam schedule is clashing with placement drives. frustrating,Academic,Medium,2026-01-18
+Professor missed the scheduled lecture without notice. frustrating,Academic,Medium,2026-04-04
+Hostel AC is not cooling in Lab 3. Please fix ASAP.,Maintenance,High,2026-02-10
+I am facing an issue where Hostel AC is not cooling in 3rd floor. Please fix ASAP. very annoying,Maintenance,High,2026-02-13
+Timetable is poorly managed with no breaks. bad,Academic,High,2026-04-19
+Chairs are uncomfortable in the reading room.,Library,Medium,2026-02-26
+It is Ambulance took too long to arrive at 3rd floor. bad,Health,High,2026-03-26
+The internet in the Building C is too slow for studying.,IT,Medium,2026-04-01
+Assignments are graded unfairly.,Academic,Medium,2026-01-13
+Wi-Fi keeps disconnecting in 3rd floor. urgent,IT,High,2026-01-03
+The internet in the Lab 3 is too slow for studying.,IT,Medium,2026-02-23
+Assignments are graded unfairly.,Academic,Medium,2026-02-17
+Cutlery is frequently dirty. frustrating,Mess,Medium,2026-03-30
+I am facing an issue where LAN cable missing in the Room 402.,IT,High,2026-01-30
+This is Assignments are graded unfairly. bad,Academic,High,2026-01-03
+Projector in Room 402 is not turning on. needs fixing,IT,High,2026-01-23
+Water cooler on the Room 402 is broken. bad,Maintenance,Medium,2026-04-19
+Hostel AC is not cooling in Library Section. Please fix ASAP. bad,Maintenance,Low,2026-01-25
+Unable to access the student portal from Room 402.,IT,High,2026-03-27
+It is Medical room is closed during night hours near Lab 3.,Health,Medium,2026-03-04
+Lights are constantly flickering in 3rd floor.,Maintenance,Medium,2026-03-04
+I am facing an issue where Cutlery is frequently dirty.,Mess,High,2026-04-04
+No security guard present at the back gate.,Security,Medium,2026-01-14
+Computers in the Lab 3 lab are not working.,IT,Medium,2026-02-05
+Medical room is closed during night hours near Building C.,Health,High,2026-02-18
+Cricket pitch needs to be rolled and cleaned. bad,Sports,Low,2026-02-04
+Fan is making weird noises in Hostel A.,Maintenance,Low,2026-04-13
+It is No vegetarian options available in the mess today.,Mess,Low,2026-03-25
+Not enough quiet study spaces.,Library,Medium,2026-01-20
+Campus security personnel are rude to students. frustrating,Security,Medium,2026-01-17
+I am facing an issue where No vegetarian options available in the mess today.,Mess,High,2026-02-16
+Bicycles are being stolen from the parking lot.,Security,High,2026-01-14
+Outsiders entering the campus without checking. terrible,Security,High,2026-04-06
+There is a water leak in the Building C. needs fixing,Maintenance,Medium,2026-02-10
+This is Not enough elective courses offered this semester. terrible,Academic,Low,2026-02-08
+This is Fan is making weird noises in Library Section.,Maintenance,Medium,2026-03-20
+It is LAN cable missing in the Main Block.,IT,Low,2026-03-10
+Doctor was not available at the clinic near Hostel A. urgent,Health,High,2026-01-29
+It is Need more books on Machine Learning in the library.,Library,Medium,2026-03-06
+I am facing an issue where Software licenses expired on lab machines in Hostel B. bad,IT,Medium,2026-04-07
+Ambulance took too long to arrive at Hostel B.,Health,High,2026-01-12
+I am facing an issue where Library closes too early during exam week.,Library,Low,2026-03-15
+It is Library closes too early during exam week.,Library,Low,2026-02-10
+Printers not working in the Hostel A.,IT,High,2026-02-01
+Indoor stadium is kept locked on weekends. very annoying,Sports,Medium,2026-04-05
+Elevator in Lab 3 is stuck frequently.,Maintenance,Low,2026-04-02
+Software licenses expired on lab machines in Main Block.,IT,High,2026-03-23
+Professor missed the scheduled lecture without notice. terrible,Academic,Medium,2026-02-10
+CCTV cameras are not functional in Building C. terrible,Security,High,2026-02-13
+Not enough basketballs available.,Sports,Low,2026-02-28
+Librarian was unhelpful today.,Library,Medium,2026-02-11
+I am facing an issue where No basic medicines available in the dispensary.,Health,High,2026-03-21
+Library closes too early during exam week. frustrating,Library,Low,2026-03-06
+Professor missed the scheduled lecture without notice. bad,Academic,Medium,2026-04-01
+Not enough basketballs available.,Sports,Medium,2026-01-28
+This is Cricket pitch needs to be rolled and cleaned.,Sports,Low,2026-03-10
+I am facing an issue where Course curriculum needs updating for industry standards.,Academic,Medium,2026-04-18
+Food is served cold during dinner time.,Mess,Medium,2026-04-07
+Not enough quiet study spaces.,Library,Low,2026-02-13
+This is Need better first aid kits in the Hostel B. very annoying,Health,High,2026-03-29
+Hostel AC is not cooling in Hostel A. Please fix ASAP.,Maintenance,Low,2026-04-14
+It is Not enough elective courses offered this semester.,Academic,Medium,2026-04-02
+This is Assignments are graded unfairly. frustrating,Academic,High,2026-02-09
+Cafeteria food gave several students food poisoning.,Mess,Medium,2026-03-15
+Not enough basketballs available.,Sports,Low,2026-03-01
+Window pane is broken in Hostel B.,Maintenance,Medium,2026-01-04
+Library closes too early during exam week.,Library,Medium,2026-02-14
+Sports ground is too muddy to play.,Sports,Low,2026-03-29
+I am facing an issue where CCTV cameras are not functional in Library Section. terrible,Security,High,2026-01-25
+It is CCTV cameras are not functional in Lab 3. urgent,Security,Medium,2026-01-19
+Menu is repetitive and lacks nutrition. urgent,Mess,Medium,2026-04-08
+It is Water supply in mess area was disrupted.,Mess,Medium,2026-03-28
+It is Need more books on Machine Learning in the library. bad,Library,Medium,2026-04-05
+This is Library closes too early during exam week.,Library,Medium,2026-04-08
+I am facing an issue where Hostel AC is not cooling in 3rd floor. Please fix ASAP.,Maintenance,High,2026-01-22
+Doctor was not available at the clinic near 3rd floor. frustrating,Health,High,2026-03-21
+Ambulance took too long to arrive at Building C.,Health,High,2026-02-16
+This is Menu is repetitive and lacks nutrition.,Mess,Medium,2026-01-17
+Fan is making weird noises in Building C.,Maintenance,Low,2026-01-11
+No basic medicines available in the dispensary.,Health,High,2026-04-10
+Medical room is closed during night hours near 3rd floor.,Health,Medium,2026-01-11
+Printers not working in the Hostel A. bad,IT,Low,2026-03-04
+I am facing an issue where Medical room is closed during night hours near Library Section.,Health,Medium,2026-01-30
+Parking lot lights are out.,Security,High,2026-03-07
+It is Online journal access is revoked.,Library,Medium,2026-02-14
+Timetable is poorly managed with no breaks.,Academic,Low,2026-01-05
+Water supply in mess area was disrupted.,Mess,High,2026-03-03
+It is Bicycles are being stolen from the parking lot.,Security,High,2026-02-19
+Hostel AC is not cooling in Library Section. Please fix ASAP. needs fixing,Maintenance,Medium,2026-01-07
+Need better first aid kits in the Library Section.,Health,High,2026-04-18
+This is Course curriculum needs updating for industry standards.,Academic,High,2026-01-12
+No security guard present at the back gate.,Security,Medium,2026-04-02
+Campus security personnel are rude to students.,Security,High,2026-02-14
+No vegetarian options available in the mess today.,Mess,High,2026-03-17
+I am facing an issue where Food is served cold during dinner time. frustrating,Mess,Medium,2026-03-08
+No vegetarian options available in the mess today.,Mess,Medium,2026-01-21
+Hostel AC is not cooling in Building C. Please fix ASAP. needs fixing,Maintenance,High,2026-02-22
+Fan is making weird noises in Building C.,Maintenance,Medium,2026-04-19
+It is Not enough basketballs available.,Sports,Low,2026-01-16
+Cafeteria food gave several students food poisoning.,Mess,Medium,2026-03-01
+Menu is repetitive and lacks nutrition.,Mess,Medium,2026-04-19
+CCTV cameras are not functional in Lab 3. urgent,Security,High,2026-03-28
+Library closes too early during exam week. terrible,Library,Medium,2026-03-10
+It is Floodlights at the football ground are not working.,Sports,Medium,2026-03-22
+Chairs are uncomfortable in the reading room.,Library,Low,2026-04-15
+Fan is making weird noises in Building C.,Maintenance,Medium,2026-03-31
+There is a water leak in the Hostel B. urgent,Maintenance,Medium,2026-03-25
+Cutlery is frequently dirty. bad,Mess,Medium,2026-03-01
+Professor missed the scheduled lecture without notice.,Academic,Medium,2026-02-05
+No security guard present at the back gate. very annoying,Security,High,2026-04-07
+I am facing an issue where Need better first aid kits in the Room 402.,Health,High,2026-03-11
+Need more books on Machine Learning in the library.,Library,Medium,2026-03-11
+Food is served cold during dinner time. frustrating,Mess,Low,2026-04-13
+This is Not enough quiet study spaces. terrible,Library,Medium,2026-03-31
+It is Need better first aid kits in the Lab 3.,Health,High,2026-02-28
+CCTV cameras are not functional in Hostel A.,Security,High,2026-01-28
+I am facing an issue where Chairs are uncomfortable in the reading room. terrible,Library,Low,2026-02-14
+Medical room is closed during night hours near 3rd floor. frustrating,Health,Medium,2026-02-11
+It is Not enough basketballs available.,Sports,Medium,2026-02-01
+Professor missed the scheduled lecture without notice.,Academic,High,2026-04-15
+I am facing an issue where Timetable is poorly managed with no breaks.,Academic,Low,2026-03-11
+This is Chairs are uncomfortable in the reading room.,Library,Medium,2026-02-15
+Menu is repetitive and lacks nutrition.,Mess,High,2026-01-26
+This is Unable to access the student portal from Lab 3.,IT,Medium,2026-03-25
+Ambulance took too long to arrive at Room 402.,Health,Medium,2026-02-22
+Floodlights at the football ground are not working.,Sports,Medium,2026-03-27
+It is Sports ground is too muddy to play.,Sports,Medium,2026-02-04
+Library closes too early during exam week.,Library,Medium,2026-02-10
+Cutlery is frequently dirty.,Mess,High,2026-01-26
+Fan is making weird noises in Main Block.,Maintenance,High,2026-01-10
+Need better first aid kits in the Building C.,Health,High,2026-04-11
+Washrooms lack basic hygiene supplies in Main Block.,Maintenance,Medium,2026-01-03
+Campus security personnel are rude to students.,Security,Medium,2026-03-23
+I am facing an issue where Professor missed the scheduled lecture without notice.,Academic,High,2026-04-15
+CCTV cameras are not functional in Building C.,Security,High,2026-04-11
+I am facing an issue where Cafeteria food gave several students food poisoning. terrible,Mess,High,2026-03-31
+This is Hygiene issues at the clinic close to 3rd floor.,Health,High,2026-02-21
+Chairs are uncomfortable in the reading room.,Library,Low,2026-02-02
+This is Online journal access is revoked.,Library,Medium,2026-01-13
+I am facing an issue where Lights are constantly flickering in Hostel B. frustrating,Maintenance,Low,2026-01-10
+Indoor stadium is kept locked on weekends.,Sports,Medium,2026-02-06
+Water supply in mess area was disrupted.,Mess,Low,2026-03-08
+Outsiders entering the campus without checking.,Security,High,2026-02-05
+I am facing an issue where Not enough basketballs available.,Sports,Medium,2026-01-14
+It is Not enough quiet study spaces. frustrating,Library,Medium,2026-03-22
+It is Chairs are uncomfortable in the reading room.,Library,Medium,2026-03-11
+I am facing an issue where There is a water leak in the Library Section.,Maintenance,Medium,2026-03-10
+Not enough basketballs available.,Sports,Low,2026-04-04
+Unable to access the student portal from 3rd floor. very annoying,IT,Low,2026-02-06
+Librarian was unhelpful today. bad,Library,Low,2026-03-20
+Campus security personnel are rude to students.,Security,High,2026-03-07
+Window pane is broken in Lab 3. frustrating,Maintenance,Medium,2026-01-18
+CCTV cameras are not functional in Library Section.,Security,High,2026-04-08
+It is Timetable is poorly managed with no breaks. very annoying,Academic,High,2026-02-26
+It is Water supply in mess area was disrupted. urgent,Mess,Low,2026-02-22
+Window pane is broken in 3rd floor.,Maintenance,Medium,2026-04-14
+I am facing an issue where Parking lot lights are out. bad,Security,High,2026-04-19
+This is Computers in the 3rd floor lab are not working. very annoying,IT,High,2026-01-13
+Computers in the Hostel A lab are not working.,IT,Low,2026-02-12
+Gym equipment requires maintenance.,Sports,Medium,2026-01-25
+No security guard present at the back gate.,Security,Medium,2026-03-18
+Not enough basketballs available.,Sports,Medium,2026-03-20
+It is LAN cable missing in the Main Block. very annoying,IT,High,2026-03-30
+Exam schedule is clashing with placement drives. urgent,Academic,Medium,2026-01-19
+This is Library closes too early during exam week. terrible,Library,Low,2026-04-09
+I am facing an issue where CCTV cameras are not functional in Main Block. terrible,Security,High,2026-01-10
+I am facing an issue where Printers not working in the Lab 3.,IT,High,2026-04-19
+Assignments are graded unfairly.,Academic,Medium,2026-02-11
+Professor missed the scheduled lecture without notice. frustrating,Academic,Medium,2026-01-27
+Ambulance took too long to arrive at Hostel B.,Health,High,2026-01-11
+I am facing an issue where Not enough elective courses offered this semester.,Academic,Medium,2026-03-25
+No basic medicines available in the dispensary.,Health,High,2026-01-18
+Library closes too early during exam week. very annoying,Library,Low,2026-02-17
+I am facing an issue where Indoor stadium is kept locked on weekends.,Sports,Low,2026-02-17
+Elevator in Building C is stuck frequently. urgent,Maintenance,High,2026-03-18
+Parking lot lights are out.,Security,High,2026-03-14
+I am facing an issue where Computers in the Hostel A lab are not working.,IT,Medium,2026-01-11
+Parking lot lights are out.,Security,High,2026-02-16
+I am facing an issue where Ambulance took too long to arrive at Library Section.,Health,High,2026-03-09
+Computers in the Main Block lab are not working. frustrating,IT,Medium,2026-03-17
+It is Not enough quiet study spaces. needs fixing,Library,Low,2026-02-07
+LAN cable missing in the Main Block.,IT,High,2026-04-07
+No security guard present at the back gate. frustrating,Security,High,2026-01-15
+Need more books on Machine Learning in the library.,Library,Medium,2026-01-01
+Water cooler on the 3rd floor is broken.,Maintenance,Medium,2026-03-04
+I am facing an issue where Timetable is poorly managed with no breaks. urgent,Academic,Medium,2026-04-07
+No vegetarian options available in the mess today.,Mess,High,2026-04-03
+This is Not enough elective courses offered this semester. needs fixing,Academic,High,2026-04-18
+It is Floodlights at the football ground are not working.,Sports,Low,2026-01-26
+I am facing an issue where Food is served cold during dinner time.,Mess,Medium,2026-03-14
+I am facing an issue where Ambulance took too long to arrive at Main Block.,Health,High,2026-03-18
+I am facing an issue where Assignments are graded unfairly.,Academic,Medium,2026-02-22
+Hostel AC is not cooling in Lab 3. Please fix ASAP.,Maintenance,High,2026-02-22
+I am facing an issue where Not enough quiet study spaces.,Library,Medium,2026-02-22
+It is CCTV cameras are not functional in 3rd floor. frustrating,Security,High,2026-03-26
+Indoor stadium is kept locked on weekends.,Sports,Medium,2026-03-14
+I am facing an issue where Online journal access is revoked.,Library,Medium,2026-03-27
+Cricket pitch needs to be rolled and cleaned. needs fixing,Sports,Medium,2026-01-24
+I am facing an issue where The internet in the Hostel A is too slow for studying.,IT,Low,2026-01-11
+Library closes too early during exam week.,Library,Low,2026-03-10
+I am facing an issue where Professor missed the scheduled lecture without notice. needs fixing,Academic,High,2026-02-26
+Wi-Fi keeps disconnecting in Hostel B.,IT,Low,2026-03-05
+Projector in Hostel A is not turning on.,IT,Low,2026-04-18
+I am facing an issue where Doctor was not available at the clinic near Lab 3.,Health,High,2026-01-30
+I am facing an issue where Elevator in Lab 3 is stuck frequently.,Maintenance,Medium,2026-03-02
+Menu is repetitive and lacks nutrition. bad,Mess,Medium,2026-02-23
+I am facing an issue where Assignments are graded unfairly. very annoying,Academic,Medium,2026-03-01
+Not enough quiet study spaces.,Library,Medium,2026-03-12
+Need more books on Machine Learning in the library.,Library,Medium,2026-01-25
+Gym equipment requires maintenance.,Sports,Low,2026-03-25
+Gym equipment requires maintenance.,Sports,Medium,2026-02-27
+I am facing an issue where There is a water leak in the Hostel A.,Maintenance,High,2026-02-27
+It is Fan is making weird noises in 3rd floor. needs fixing,Maintenance,Low,2026-01-06
+The internet in the Building C is too slow for studying. very annoying,IT,Medium,2026-02-24
+It is Library closes too early during exam week. bad,Library,Medium,2026-02-03
+I am facing an issue where Printers not working in the Hostel A.,IT,Medium,2026-04-13
+This is Cricket pitch needs to be rolled and cleaned.,Sports,Medium,2026-02-12
+Medical room is closed during night hours near 3rd floor. terrible,Health,High,2026-03-24
+Gym equipment requires maintenance.,Sports,Medium,2026-01-09
+No vegetarian options available in the mess today.,Mess,Low,2026-03-31
+I am facing an issue where Course curriculum needs updating for industry standards.,Academic,Low,2026-01-30
+Not enough basketballs available. very annoying,Sports,Low,2026-04-11
+Wi-Fi keeps disconnecting in Hostel A.,IT,Medium,2026-04-09
+Doctor was not available at the clinic near Lab 3.,Health,High,2026-03-29
+I am facing an issue where Library closes too early during exam week.,Library,Medium,2026-04-16
+I am facing an issue where Food is served cold during dinner time. needs fixing,Mess,Medium,2026-02-10
+This is Course curriculum needs updating for industry standards.,Academic,High,2026-02-18
+It is Course curriculum needs updating for industry standards.,Academic,Low,2026-02-18
+Indoor stadium is kept locked on weekends.,Sports,Low,2026-03-02
+I am facing an issue where Sports ground is too muddy to play.,Sports,Low,2026-02-06
+I am facing an issue where Timetable is poorly managed with no breaks.,Academic,Low,2026-01-05
+Professor missed the scheduled lecture without notice.,Academic,High,2026-03-18
+Floodlights at the football ground are not working.,Sports,Medium,2026-03-01
+Lights are constantly flickering in Lab 3.,Maintenance,High,2026-03-01
+Software licenses expired on lab machines in Library Section.,IT,Low,2026-02-05
+It is Need more books on Machine Learning in the library. terrible,Library,Medium,2026-03-08
+Software licenses expired on lab machines in 3rd floor.,IT,High,2026-04-14
+Software licenses expired on lab machines in Lab 3.,IT,Low,2026-01-07
+Hygiene issues at the clinic close to Building C.,Health,High,2026-02-26
+This is Chairs are uncomfortable in the reading room. frustrating,Library,Low,2026-01-15
+Hostel AC is not cooling in Lab 3. Please fix ASAP. very annoying,Maintenance,Medium,2026-03-05
+I am facing an issue where No vegetarian options available in the mess today.,Mess,Low,2026-03-12
+Not enough quiet study spaces. urgent,Library,Medium,2026-04-15
+It is Unable to access the student portal from Room 402.,IT,Medium,2026-02-22
+I am facing an issue where CCTV cameras are not functional in Lab 3. bad,Security,High,2026-02-08
+This is Software licenses expired on lab machines in Main Block.,IT,High,2026-02-04
+This is Projector in Lab 3 is not turning on.,IT,Medium,2026-04-17
+Lights are constantly flickering in Hostel B.,Maintenance,Low,2026-04-07
+Outsiders entering the campus without checking. terrible,Security,High,2026-01-31
+Lights are constantly flickering in Hostel B. bad,Maintenance,Medium,2026-04-16
+Projector in Lab 3 is not turning on.,IT,Medium,2026-01-25
+Course curriculum needs updating for industry standards.,Academic,High,2026-04-05
+Online journal access is revoked. bad,Library,Low,2026-04-13
+I am facing an issue where Fan is making weird noises in Hostel B. urgent,Maintenance,Medium,2026-04-18
+Wi-Fi keeps disconnecting in Lab 3.,IT,High,2026-03-01
+Doctor was not available at the clinic near Hostel A.,Health,High,2026-01-09
+Menu is repetitive and lacks nutrition.,Mess,Medium,2026-01-05
+This is Medical room is closed during night hours near Hostel B.,Health,High,2026-04-06
+Lights are constantly flickering in Lab 3.,Maintenance,High,2026-03-27
+Online journal access is revoked.,Library,Medium,2026-04-02
+I am facing an issue where No vegetarian options available in the mess today. terrible,Mess,High,2026-02-21
+Software licenses expired on lab machines in 3rd floor.,IT,High,2026-01-04
+Indoor stadium is kept locked on weekends.,Sports,Medium,2026-02-20
+I am facing an issue where Floodlights at the football ground are not working.,Sports,Medium,2026-03-15
+Water supply in mess area was disrupted.,Mess,High,2026-01-28
+Timetable is poorly managed with no breaks. urgent,Academic,Medium,2026-01-30
+I am facing an issue where Assignments are graded unfairly.,Academic,Medium,2026-01-16
+Water cooler on the 3rd floor is broken.,Maintenance,Medium,2026-04-14
+Fan is making weird noises in Room 402. bad,Maintenance,High,2026-03-14
+Bicycles are being stolen from the parking lot.,Security,High,2026-02-27
+It is Librarian was unhelpful today.,Library,Medium,2026-02-06
+Exam schedule is clashing with placement drives.,Academic,Medium,2026-04-03
+Hygiene issues at the clinic close to Lab 3. very annoying,Health,High,2026-03-25
+Campus security personnel are rude to students.,Security,High,2026-02-24
+Chairs are uncomfortable in the reading room.,Library,Low,2026-02-13
+Sports ground is too muddy to play.,Sports,Medium,2026-02-09
+I am facing an issue where Hygiene issues at the clinic close to Library Section. bad,Health,High,2026-01-23
+The internet in the 3rd floor is too slow for studying. very annoying,IT,Low,2026-01-16
+Window pane is broken in Building C.,Maintenance,High,2026-03-22
+Projector in Hostel A is not turning on. very annoying,IT,High,2026-01-11
+Chairs are uncomfortable in the reading room.,Library,Medium,2026-01-17
+I am facing an issue where Doctor was not available at the clinic near 3rd floor. urgent,Health,High,2026-01-07
+I am facing an issue where Librarian was unhelpful today.,Library,Low,2026-01-02
+Fan is making weird noises in Room 402. terrible,Maintenance,Medium,2026-01-16
+Assignments are graded unfairly. urgent,Academic,Medium,2026-03-20
+I am facing an issue where Bicycles are being stolen from the parking lot.,Security,Medium,2026-04-15
+I am facing an issue where Computers in the Library Section lab are not working.,IT,Medium,2026-03-30
+Cricket pitch needs to be rolled and cleaned.,Sports,Low,2026-03-15
+Wi-Fi keeps disconnecting in Building C. terrible,IT,Low,2026-04-09
+I am facing an issue where Software licenses expired on lab machines in Library Section.,IT,Medium,2026-02-22
+This is Menu is repetitive and lacks nutrition.,Mess,Medium,2026-04-14
+Course curriculum needs updating for industry standards.,Academic,High,2026-04-06
+Parking lot lights are out. very annoying,Security,High,2026-03-04
+CCTV cameras are not functional in 3rd floor. bad,Security,Medium,2026-03-28
+It is Software licenses expired on lab machines in Hostel A. needs fixing,IT,Medium,2026-04-02
+I am facing an issue where Doctor was not available at the clinic near Building C.,Health,High,2026-02-16
+Indoor stadium is kept locked on weekends.,Sports,Low,2026-04-04
+Need better first aid kits in the Main Block.,Health,Medium,2026-03-12
+Outsiders entering the campus without checking. very annoying,Security,High,2026-02-15
+I am facing an issue where Exam schedule is clashing with placement drives.,Academic,Low,2026-02-11
+Need better first aid kits in the Room 402.,Health,High,2026-02-20
+Bicycles are being stolen from the parking lot.,Security,High,2026-01-08
+This is Cutlery is frequently dirty. needs fixing,Mess,Medium,2026-01-20
+Food is served cold during dinner time.,Mess,High,2026-04-14
+Cafeteria food gave several students food poisoning.,Mess,Low,2026-03-20
+Chairs are uncomfortable in the reading room.,Library,Low,2026-01-15
+It is Bicycles are being stolen from the parking lot. bad,Security,High,2026-03-03
+Not enough quiet study spaces.,Library,Medium,2026-02-17
+LAN cable missing in the Hostel A.,IT,Medium,2026-03-15
+Elevator in Hostel A is stuck frequently.,Maintenance,Medium,2026-01-28
+Bicycles are being stolen from the parking lot. terrible,Security,High,2026-01-20
+Ambulance took too long to arrive at 3rd floor. bad,Health,High,2026-01-15
+Menu is repetitive and lacks nutrition.,Mess,Medium,2026-02-18
+It is Doctor was not available at the clinic near Hostel A. very annoying,Health,High,2026-04-02
+I am facing an issue where Doctor was not available at the clinic near Lab 3.,Health,High,2026-01-03
+Cafeteria food gave several students food poisoning.,Mess,High,2026-03-01
+Parking lot lights are out. terrible,Security,Medium,2026-03-08
+I am facing an issue where Not enough basketballs available. needs fixing,Sports,Medium,2026-03-29
+Online journal access is revoked. terrible,Library,Medium,2026-01-25
+Washrooms lack basic hygiene supplies in Library Section. needs fixing,Maintenance,Medium,2026-02-10
+Doctor was not available at the clinic near 3rd floor.,Health,Medium,2026-03-12
+Food is served cold during dinner time.,Mess,Medium,2026-03-12
+No basic medicines available in the dispensary.,Health,Medium,2026-04-16
+Menu is repetitive and lacks nutrition.,Mess,Medium,2026-01-22
+Ambulance took too long to arrive at Hostel B. very annoying,Health,High,2026-03-15
+This is Sports ground is too muddy to play. bad,Sports,Low,2026-01-20
+No basic medicines available in the dispensary.,Health,High,2026-01-22
+Computers in the Hostel A lab are not working.,IT,High,2026-01-12
+I am facing an issue where Gym equipment requires maintenance. frustrating,Sports,Medium,2026-01-08
+No security guard present at the back gate.,Security,High,2026-04-01
+Timetable is poorly managed with no breaks.,Academic,Medium,2026-01-13
+Outsiders entering the campus without checking.,Security,High,2026-02-01
+This is Floodlights at the football ground are not working. terrible,Sports,Medium,2026-04-05
+I am facing an issue where Online journal access is revoked.,Library,Medium,2026-03-10
+Sports ground is too muddy to play.,Sports,Medium,2026-04-10
+There is a water leak in the Main Block.,Maintenance,High,2026-02-05
+It is Outsiders entering the campus without checking.,Security,Medium,2026-03-19
+Floodlights at the football ground are not working.,Sports,Medium,2026-03-03
+Fan is making weird noises in Main Block.,Maintenance,High,2026-01-19
+It is Floodlights at the football ground are not working. needs fixing,Sports,Medium,2026-03-01
+Not enough quiet study spaces. frustrating,Library,Medium,2026-02-21
+Need more books on Machine Learning in the library.,Library,Medium,2026-02-23
+It is Need more books on Machine Learning in the library.,Library,Medium,2026-03-13
+Not enough basketballs available.,Sports,Low,2026-04-07
+No vegetarian options available in the mess today. bad,Mess,Medium,2026-04-19
+Parking lot lights are out.,Security,High,2026-02-11
+It is Computers in the Building C lab are not working.,IT,Medium,2026-02-07
+I am facing an issue where Window pane is broken in Hostel A. needs fixing,Maintenance,Medium,2026-01-22
+Bicycles are being stolen from the parking lot. urgent,Security,Medium,2026-03-02
+It is Parking lot lights are out. needs fixing,Security,High,2026-02-28
+Cricket pitch needs to be rolled and cleaned.,Sports,Medium,2026-04-06
+It is Course curriculum needs updating for industry standards.,Academic,Medium,2026-03-12
+Assignments are graded unfairly.,Academic,High,2026-02-07
+Hostel AC is not cooling in 3rd floor. Please fix ASAP.,Maintenance,High,2026-02-07
+This is The internet in the Lab 3 is too slow for studying.,IT,Medium,2026-03-16
+No vegetarian options available in the mess today.,Mess,Low,2026-02-16
+The internet in the Room 402 is too slow for studying.,IT,Medium,2026-04-13
+Indoor stadium is kept locked on weekends. needs fixing,Sports,Low,2026-04-18
+It is Not enough basketballs available.,Sports,Low,2026-02-20
+I am facing an issue where Hostel AC is not cooling in Lab 3. Please fix ASAP.,Maintenance,Medium,2026-04-05
+Not enough quiet study spaces.,Library,Medium,2026-03-17
+It is Unable to access the student portal from Hostel B.,IT,Medium,2026-01-14
+Librarian was unhelpful today. urgent,Library,Medium,2026-03-21
+Elevator in Hostel B is stuck frequently.,Maintenance,Medium,2026-01-04
+Bicycles are being stolen from the parking lot. needs fixing,Security,High,2026-02-18
+I am facing an issue where Hygiene issues at the clinic close to Hostel B. frustrating,Health,High,2026-04-17
+Need better first aid kits in the Library Section. very annoying,Health,High,2026-01-16
+Menu is repetitive and lacks nutrition.,Mess,High,2026-02-21
+LAN cable missing in the Main Block. bad,IT,Low,2026-03-06
+I am facing an issue where Parking lot lights are out.,Security,High,2026-03-17
+Campus security personnel are rude to students. terrible,Security,Medium,2026-01-18
+I am facing an issue where Doctor was not available at the clinic near Hostel A. terrible,Health,Medium,2026-04-05
+I am facing an issue where Washrooms lack basic hygiene supplies in Hostel A.,Maintenance,High,2026-01-14
+It is Not enough elective courses offered this semester.,Academic,Medium,2026-01-31
+Menu is repetitive and lacks nutrition. urgent,Mess,Low,2026-04-08
+I am facing an issue where Ambulance took too long to arrive at Lab 3.,Health,High,2026-01-13
+Timetable is poorly managed with no breaks.,Academic,Medium,2026-03-01
+This is Cricket pitch needs to be rolled and cleaned.,Sports,Low,2026-02-25
+It is Medical room is closed during night hours near Library Section.,Health,Medium,2026-04-13
+I am facing an issue where No basic medicines available in the dispensary.,Health,High,2026-03-09
+Librarian was unhelpful today. terrible,Library,Low,2026-03-15
+It is Bicycles are being stolen from the parking lot.,Security,High,2026-04-02
+I am facing an issue where Sports ground is too muddy to play.,Sports,Low,2026-03-09
+No vegetarian options available in the mess today.,Mess,High,2026-02-04
+This is Elevator in Hostel A is stuck frequently. very annoying,Maintenance,High,2026-02-26
+Water cooler on the Room 402 is broken.,Maintenance,High,2026-01-29
+Outsiders entering the campus without checking.,Security,High,2026-01-16
+LAN cable missing in the Hostel B.,IT,High,2026-04-12
+I am facing an issue where Cafeteria food gave several students food poisoning.,Mess,Medium,2026-01-08
+Librarian was unhelpful today.,Library,Low,2026-04-17
+Ambulance took too long to arrive at Library Section.,Health,High,2026-04-10
+Not enough quiet study spaces.,Library,Medium,2026-03-03
+Cricket pitch needs to be rolled and cleaned. terrible,Sports,Low,2026-03-08
+It is Campus security personnel are rude to students.,Security,High,2026-04-06
+CCTV cameras are not functional in Lab 3.,Security,High,2026-04-16
+Need more books on Machine Learning in the library.,Library,Medium,2026-01-05
+Hygiene issues at the clinic close to Hostel B.,Health,Medium,2026-02-02
+I am facing an issue where Lights are constantly flickering in Library Section.,Maintenance,Medium,2026-04-16
+I am facing an issue where Sports ground is too muddy to play.,Sports,Medium,2026-02-02
+Menu is repetitive and lacks nutrition.,Mess,Medium,2026-01-19
+This is Floodlights at the football ground are not working.,Sports,Medium,2026-03-02
+It is Chairs are uncomfortable in the reading room.,Library,Medium,2026-04-12
+This is Bicycles are being stolen from the parking lot. very annoying,Security,High,2026-04-09
+This is Food is served cold during dinner time. urgent,Mess,Medium,2026-02-06
+Floodlights at the football ground are not working.,Sports,Low,2026-02-26
+I am facing an issue where Doctor was not available at the clinic near Hostel A.,Health,High,2026-03-25
+Floodlights at the football ground are not working.,Sports,Medium,2026-01-05
+Need more books on Machine Learning in the library.,Library,Low,2026-03-19
+Doctor was not available at the clinic near Building C.,Health,Medium,2026-01-16
+Parking lot lights are out. urgent,Security,High,2026-02-22
+It is Printers not working in the Room 402. needs fixing,IT,High,2026-03-07
+Wi-Fi keeps disconnecting in Library Section. urgent,IT,Low,2026-02-24
+Bicycles are being stolen from the parking lot.,Security,Medium,2026-03-23
+Outsiders entering the campus without checking. very annoying,Security,High,2026-01-21
+Unable to access the student portal from 3rd floor.,IT,Medium,2026-01-04
+Online journal access is revoked.,Library,Low,2026-03-28
+Cafeteria food gave several students food poisoning.,Mess,Low,2026-01-20
+Online journal access is revoked. needs fixing,Library,Medium,2026-01-17
+I am facing an issue where Course curriculum needs updating for industry standards.,Academic,Medium,2026-04-02
+Water supply in mess area was disrupted. bad,Mess,Medium,2026-04-12
+Not enough elective courses offered this semester. terrible,Academic,Medium,2026-02-17
+This is Lights are constantly flickering in Main Block. needs fixing,Maintenance,Medium,2026-04-11
+I am facing an issue where Cricket pitch needs to be rolled and cleaned. terrible,Sports,Low,2026-02-03
+This is Hostel AC is not cooling in 3rd floor. Please fix ASAP.,Maintenance,Medium,2026-02-17
+Ambulance took too long to arrive at Hostel A.,Health,High,2026-01-29
+Elevator in 3rd floor is stuck frequently.,Maintenance,Low,2026-02-17
+Campus security personnel are rude to students.,Security,High,2026-04-07
+I am facing an issue where Not enough elective courses offered this semester.,Academic,High,2026-03-17
+Water supply in mess area was disrupted.,Mess,Medium,2026-03-11
+It is Campus security personnel are rude to students. needs fixing,Security,High,2026-03-01
+Gym equipment requires maintenance.,Sports,Low,2026-04-18
+I am facing an issue where Unable to access the student portal from Lab 3.,IT,High,2026-04-08
+Water supply in mess area was disrupted. frustrating,Mess,Medium,2026-02-24
+This is No basic medicines available in the dispensary.,Health,High,2026-02-26
+Need more books on Machine Learning in the library. needs fixing,Library,Medium,2026-01-09
+It is Need more books on Machine Learning in the library.,Library,Medium,2026-01-24
+The internet in the Main Block is too slow for studying. needs fixing,IT,High,2026-01-07
+Exam schedule is clashing with placement drives.,Academic,High,2026-03-17
+This is Bicycles are being stolen from the parking lot. urgent,Security,High,2026-02-19
+Not enough basketballs available.,Sports,Medium,2026-03-13
+This is Indoor stadium is kept locked on weekends.,Sports,Medium,2026-04-14
+Not enough basketballs available. needs fixing,Sports,Medium,2026-01-06
+Gym equipment requires maintenance.,Sports,Low,2026-03-12
+Indoor stadium is kept locked on weekends.,Sports,Medium,2026-01-02
+Not enough basketballs available. very annoying,Sports,Low,2026-04-05
+Online journal access is revoked.,Library,Low,2026-04-05
+Need better first aid kits in the Room 402. needs fixing,Health,High,2026-03-13
+Not enough elective courses offered this semester.,Academic,Low,2026-01-03
+I am facing an issue where Exam schedule is clashing with placement drives. terrible,Academic,High,2026-01-18
+Computers in the Hostel B lab are not working.,IT,High,2026-01-21
+Doctor was not available at the clinic near Hostel B. bad,Health,High,2026-03-02
+This is Wi-Fi keeps disconnecting in Hostel B. frustrating,IT,Medium,2026-02-06
+There is a water leak in the Library Section.,Maintenance,Medium,2026-01-05
+Menu is repetitive and lacks nutrition.,Mess,High,2026-03-23
+This is No vegetarian options available in the mess today.,Mess,Medium,2026-03-15
+I am facing an issue where Not enough quiet study spaces.,Library,Low,2026-01-26
+This is Parking lot lights are out.,Security,High,2026-03-08
+Fan is making weird noises in Room 402.,Maintenance,High,2026-03-31
+Librarian was unhelpful today.,Library,Low,2026-03-22
+I am facing an issue where Gym equipment requires maintenance. needs fixing,Sports,Low,2026-04-18
+Cafeteria food gave several students food poisoning.,Mess,Low,2026-03-01
+I am facing an issue where Librarian was unhelpful today. bad,Library,Low,2026-03-07
+Cafeteria food gave several students food poisoning.,Mess,Medium,2026-03-16
+Projector in Main Block is not turning on. needs fixing,IT,High,2026-03-28
+This is Ambulance took too long to arrive at 3rd floor.,Health,High,2026-01-03
+This is Not enough basketballs available.,Sports,Medium,2026-02-08
+I am facing an issue where Water cooler on the Lab 3 is broken. frustrating,Maintenance,High,2026-01-12
+Not enough quiet study spaces.,Library,Low,2026-02-05
+I am facing an issue where Wi-Fi keeps disconnecting in Room 402. urgent,IT,Medium,2026-04-11
+I am facing an issue where Hygiene issues at the clinic close to Main Block. needs fixing,Health,High,2026-04-18
+Lights are constantly flickering in Hostel B. frustrating,Maintenance,Low,2026-01-10
+Assignments are graded unfairly.,Academic,High,2026-02-14
+Projector in Lab 3 is not turning on.,IT,High,2026-02-14
+It is Parking lot lights are out.,Security,High,2026-04-19
+Computers in the Hostel A lab are not working.,IT,Medium,2026-03-07
+This is Projector in Building C is not turning on.,IT,Low,2026-03-08
+This is Food is served cold during dinner time.,Mess,Low,2026-03-01
+Online journal access is revoked. very annoying,Library,Medium,2026-04-18
+Chairs are uncomfortable in the reading room.,Library,Low,2026-03-09
+Parking lot lights are out. terrible,Security,High,2026-03-05
+Online journal access is revoked. bad,Library,Low,2026-02-10
+Cricket pitch needs to be rolled and cleaned.,Sports,Medium,2026-04-02
+I am facing an issue where Librarian was unhelpful today. very annoying,Library,Medium,2026-01-09
+This is No basic medicines available in the dispensary. very annoying,Health,High,2026-03-23
+Menu is repetitive and lacks nutrition.,Mess,High,2026-04-02
+This is Water supply in mess area was disrupted.,Mess,Low,2026-03-09
+Assignments are graded unfairly. frustrating,Academic,Medium,2026-02-22
+Timetable is poorly managed with no breaks. bad,Academic,Medium,2026-01-21
+I am facing an issue where Need better first aid kits in the Library Section.,Health,High,2026-03-08
+Campus security personnel are rude to students.,Security,High,2026-03-25
+Timetable is poorly managed with no breaks.,Academic,Medium,2026-01-28
+Not enough basketballs available. bad,Sports,Medium,2026-03-20
+Ambulance took too long to arrive at Main Block. very annoying,Health,Medium,2026-02-21
+It is Software licenses expired on lab machines in Lab 3.,IT,Low,2026-03-29
+I am facing an issue where There is a water leak in the Hostel A.,Maintenance,High,2026-01-09
+Window pane is broken in Building C. bad,Maintenance,Low,2026-01-08
+Menu is repetitive and lacks nutrition.,Mess,High,2026-03-23
+Parking lot lights are out. terrible,Security,High,2026-03-12
+Unable to access the student portal from Room 402.,IT,High,2026-01-12
+Timetable is poorly managed with no breaks.,Academic,Low,2026-04-05
+Wi-Fi keeps disconnecting in 3rd floor. urgent,IT,Medium,2026-02-05
+It is Printers not working in the 3rd floor. frustrating,IT,Low,2026-03-09
+I am facing an issue where Cricket pitch needs to be rolled and cleaned.,Sports,Medium,2026-02-17
+I am facing an issue where Exam schedule is clashing with placement drives.,Academic,High,2026-02-21
+This is Washrooms lack basic hygiene supplies in Main Block.,Maintenance,Medium,2026-01-15
+Parking lot lights are out. needs fixing,Security,High,2026-01-18
+This is Bicycles are being stolen from the parking lot.,Security,Medium,2026-02-10
+Online journal access is revoked.,Library,Medium,2026-02-10
+Chairs are uncomfortable in the reading room. needs fixing,Library,Medium,2026-03-25
+Parking lot lights are out.,Security,High,2026-03-30
+No basic medicines available in the dispensary. urgent,Health,High,2026-01-15
+It is Library closes too early during exam week. very annoying,Library,Low,2026-01-19
+Exam schedule is clashing with placement drives.,Academic,High,2026-02-06
+This is Outsiders entering the campus without checking.,Security,High,2026-01-01
+I am facing an issue where Need more books on Machine Learning in the library. terrible,Library,Medium,2026-02-02
+Floodlights at the football ground are not working.,Sports,Medium,2026-01-03
+Window pane is broken in Hostel B.,Maintenance,High,2026-02-28
